@@ -38,7 +38,6 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 .about-text {
 	color: white;
-	font-family: "Roboto";
 	font-weight: 500;
 	width: 100%;
 }
@@ -80,6 +79,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	background-color: #f8d56c;
 	display: flex;
 	justify-content: center;
+	height: 100px;
 }
 
 #project-link-container button {
@@ -92,11 +92,48 @@ a:hover, a:active { text-decoration: none; color: black; }
 	margin: 0 auto;
 	border-radius: 4px;
 	align-self: center;
+	height: 70px;
+	width: 140px;
+	font-size: 22px;
 }
 
 #project-link-container button:hover {
 	background-color: white;
 	color: #f8d56c;
+}
+
+#contact-container {
+	background-color: #4cb07a;
+	height: 250px;
+	text-align: center;
+}
+
+#contact-container p {
+	color: white;
+	padding-top: 40px;
+	font-weight: 500;
+	font-size: 22px;
+}
+
+#contact-container button {
+	background-color: #4cb07a;
+	color: white;
+	border: 2px solid white;
+	outline: none;
+	cursor: pointer;
+	-webkit-transition: 300ms;
+	margin: 0 auto;
+	border-radius: 4px;
+	align-self: center;
+	height: 60px;
+	width: 120px;
+	font-size: 18px;
+	margin-top: 60px;
+}
+
+#contact-container button:hover {
+	background-color: white;
+	color: #4cb07a;
 }
 
 @media only screen and (max-width: 700px) {
@@ -107,16 +144,6 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 18px;
-	}
-
-	#project-link-container {
-		height: 10vh;
-	}
-
-	#project-link-container button{
-		height: 50px;
-		width: 100px;
-		font-size: 16px;
 	}
 
 	.skill-icon {
@@ -133,6 +160,17 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	#skills-container {
 		height: 50vh;
+	}
+
+	#contact-container p {
+		font-size: 22px;
+	}
+
+	#contact-container button{
+		height: 60px;
+		width: 120px;
+		font-size: 18px;
+		margin-top: 60px;
 	}
 
 }
@@ -185,16 +223,6 @@ a:hover, a:active { text-decoration: none; color: black; }
 		font-size: 30px;
 	}
 
-	#project-link-container {
-		height: 20vh;
-	}
-
-	#project-link-container button{
-		height: 80px;
-		width: 160px;
-		font-size: 22px;
-	}
-
 	.skill-icon {
 		width: 70%;
 	}
@@ -216,16 +244,6 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 36px;
-	}
-
-	#project-link-container {
-		height: 20vh;
-	}
-
-	#project-link-container button{
-		height: 80px;
-		width: 160px;
-		font-size: 22px;
 	}
 
 	.skill-icon {

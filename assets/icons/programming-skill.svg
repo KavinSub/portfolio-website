@@ -12,7 +12,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" transform="translate(-432.000000, -25.000000)">
             <g id="programming-skill" transform="translate(434.000000, 27.000000)">
-                <polygon id="skillHexagon" stroke="#333333" stroke-width="3" fill="#D8D8D8" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 -5.9507364e-14 147 -1.13686838e-13 49"></polygon>
+                <polygon id="skillHexagon" stroke="#333333" stroke-width="3" fill="#FFFFFF" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 -5.9507364e-14 147 -1.13686838e-13 49"></polygon>
                 <g id="terminal" transform="translate(25.000000, 53.000000)">
                     <use id="Rectangle-4" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#000000" xlink:href="#path-1"></use>
                     <text id="&gt;-echo-foobar-&gt;-foob" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#FFFFFF">
