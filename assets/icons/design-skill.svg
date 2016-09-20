@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 174 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>design-skill</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-622.000000, -25.000000)">
+            <g id="design-skill" transform="translate(624.000000, 27.000000)">
+                <polygon id="skillHexagon" stroke="#333333" stroke-width="3" fill="#D8D8D8" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 -5.9507364e-14 147 -1.13686838e-13 49"></polygon>
+                <g id="paintstroke" transform="translate(84.500000, 141.000000) rotate(-90.000000) translate(-84.500000, -141.000000) translate(66.500000, 123.500000)">
+                    <polygon id="Rectangle-7" fill="#F66B6E" points="0 0 36 8.75 36 10.9375 0 7.29166667"></polygon>
+                    <polygon id="Rectangle-7-Copy" fill="#F8946C" points="0 7.29166667 36 10.9375 36 14.5833333 0 14.5833333"></polygon>
+                    <rect id="Rectangle-7-Copy-2" fill="#F8D56C" x="0" y="14.5833333" width="36" height="5.83333333"></rect>
+                    <polygon id="Rectangle-7-Copy-3" fill="#4CB07A" points="0 20.4166667 36 20.4166667 36 24.0625 0 27.7083333"></polygon>
+                    <polygon id="Rectangle-7-Copy-4" fill="#5369A8" points="0 27.7083333 36 24.0625 36 26.25 0 35"></polygon>
+                </g>
+                <g id="paintbrush" transform="translate(100.572395, 80.469884) rotate(17.000000) translate(-100.572395, -80.469884) translate(88.072395, 30.469884)" fill="#000000">
+                    <path d="M8.12285969,94.0766754 C12.3924176,89.9579917 10.7135393,83.0759926 10.7135393,78.115695 C12.6627678,72.9460104 24.9623528,67.9392599 24.9623528,77.7441336 C24.9623528,87.5490074 20.5997618,91.5718119 16.3565241,93.9810776 C12.1132864,96.3903433 0.453657677,100.569544 0.453657677,99.4228858 C0.453657677,98.2762278 2.46881223,96.758433 8.12285969,94.0766754 Z" id="Rectangle-5"></path>
+                    <rect id="Rectangle-6" x="12" y="5.68434189e-14" width="10" height="70"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

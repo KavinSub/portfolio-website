@@ -2,6 +2,7 @@
 
 * {
 	margin: 0;
+	font-family: "Roboto";
 }
 
 a { text-decoration: none; }
@@ -42,6 +43,38 @@ a:hover, a:active { text-decoration: none; color: black; }
 	width: 100%;
 }
 
+#skills-container {
+	width: 100%;
+	background-color: #5369a8;
+	text-align: center;
+	height: 100vh;
+	display: flex;
+}
+
+.skill-container {
+	width: 20%;
+	height: 100vh;
+}
+
+.skill-icon {
+	padding-top: 10px;
+}
+
+.skill-category-label {
+	color: white;
+	font-weight: 500;
+}
+
+.skill-list {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.skill-item {
+	color: white;
+	font-weight: 400;
+}
+
 @media only screen and (max-width: 700px) {
 
 	#profile-image {
@@ -52,10 +85,21 @@ a:hover, a:active { text-decoration: none; color: black; }
 		font-size: 18px;
 	}
 
+	.skill-icon {
+		width: 75%;
+	}
+
+	.skill-category-label {
+		font-size: 16px;
+	}
+
+	.skill-item {
+		font-size: 12px;
+	}
+
 }
 
 @media only screen and (min-width: 701px) and (max-width: 1050px){
-
 
 	#profile-image {
 		width: 25%;
@@ -65,9 +109,21 @@ a:hover, a:active { text-decoration: none; color: black; }
 		font-size: 24px;
 	}
 
+	.skill-icon {
+		width: 70%;
+	}
+
+	.skill-category-label {
+		font-size: 24px;
+	}
+
+	.skill-item {
+		font-size: 20px;
+	}
+
 }
 
-@media only screen and (min-width: 1051px) {
+@media only screen and (min-width: 1051px) and (max-width: 1440px) {
 
 	#profile-image {
 		width: 20%;
@@ -75,6 +131,41 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 30px;
+	}
+
+	.skill-icon {
+		width: 70%;
+	}
+
+	.skill-category-label {
+		font-size: 32px;
+	}
+
+	.skill-item {
+		font-size: 28px;
+	}
+}
+
+@media only screen and (min-width: 1441px) {
+
+	#profile-image {
+		width: 20%;
+	}
+
+	.about-text {
+		font-size: 36px;
+	}
+
+	.skill-icon {
+		width: 65%;
+	}
+
+	.skill-category-label {
+		font-size: 40px;
+	}
+
+	.skill-item {
+		font-size: 36px;
 	}
 
 }
