@@ -79,7 +79,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	background-color: #f8d56c;
 	display: flex;
 	justify-content: center;
-	height: 100px;
+	height: 120px;
 }
 
 #project-link-container button {
@@ -111,29 +111,47 @@ a:hover, a:active { text-decoration: none; color: black; }
 #contact-container p {
 	color: white;
 	padding-top: 40px;
-	font-weight: 500;
-	font-size: 22px;
+	font-weight: 400;
+	font-size: 26px;
 }
 
 #contact-container button {
 	background-color: #4cb07a;
 	color: white;
 	border: 2px solid white;
-	outline: none;
 	cursor: pointer;
 	-webkit-transition: 300ms;
+	outline: none;
 	margin: 0 auto;
 	border-radius: 4px;
 	align-self: center;
 	height: 60px;
 	width: 120px;
-	font-size: 18px;
+	font-size: 20px;
 	margin-top: 60px;
 }
 
 #contact-container button:hover {
 	background-color: white;
 	color: #4cb07a;
+}
+
+#links-container {
+	background-color: #f66b6e;
+	height: 120px;
+	display: block;
+}
+
+#link-container {
+	padding-top: 40px;
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+#link-container a {
+	color: white;
+	font-size: 18px;
 }
 
 @media only screen and (max-width: 700px) {
