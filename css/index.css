@@ -52,8 +52,8 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 #project-link-container button {
 	background-color: white;
-	color: #f8d56c;
-	border: 2px solid #f8d56c;
+	color: #f8946c;
+	border: 2px solid #f8946c;
 	outline: none;
 	cursor: pointer;
 	-webkit-transition: 300ms;
@@ -67,7 +67,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 }
 
 #project-link-container button:hover {
-	background-color: #f8d56c;
+	background-color: #f8946c;
 	color: white;
 }
 
@@ -143,15 +143,14 @@ a:hover, a:active { text-decoration: none; color: black; }
 	display: block;
 }
 
-#link-container {
+.link-container {
 	padding-top: 40px;
 	width: 33%;
 	float: left;
 	text-align: center;
 }
 
-#link-container a {
-	color: white;
+.link-container a {
 	font-size: 18px;
 }
 

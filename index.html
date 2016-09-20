@@ -3,11 +3,24 @@
 <head>
 	<title>Main Page</title>
 	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<link rel="stylesheet" type="text/css" href="css/navbar.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500' rel='stylesheet' type='text/css'>
 	<script   src="https://code.jquery.com/jquery-3.1.0.min.js"   integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="   crossorigin="anonymous"></script>
 </head>
 <body>
-	<div></div>
+	<nav class="header">
+		<div class="header-link-container">
+			<div class="header-placeholder">
+				Logo
+			</div>
+			<div class="header-link">
+				<a href="#">Home</a>
+			</div>
+			<div class="header-link">
+				<a href="#">Projects</a>
+			</div>
+		</div>
+	</nav>
 	<div id="main-container">
 		<img src="assets/world.svg">
 	</div>
@@ -84,14 +97,14 @@
 		<button id="yes-button">Yes</button>
 	</div>
 	<div id="links-container">
-		<div id="link-container">
-			<a href="#">LinkedIn</a>
+		<div class="link-container">
+			<a href="#" style="color: white">LinkedIn</a>
 		</div>
-		<div id="link-container">
-			<a href="#">Github</a>
+		<div class="link-container">
+			<a href="#" style="color: white">Github</a>
 		</div>
-		<div id="link-container">
-			<a href="#">Twitter</a>
+		<div class="link-container">
+			<a href="#" style="color: white">Twitter</a>
 		</div>
 	</div>
 	<script src="js/index.js"></script>
