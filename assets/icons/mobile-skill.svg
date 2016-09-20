@@ -7,7 +7,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" transform="translate(-52.000000, -25.000000)">
             <g id="mobile-skill" transform="translate(54.000000, 27.000000)">
-                <polygon id="skillHexagon" stroke="#333333" stroke-width="3" fill="#FFFFFF" points="85.033321 0 169.903811 49 169.903811 147 85.033321 196 0.162831426 147 0.162831426 49"></polygon>
+                <polygon id="skillHexagon" fill="#FFFFFF" points="85.033321 0 169.903811 49 169.903811 147 85.033321 196 0.162831426 147 0.162831426 49"></polygon>
                 <g id="phone" transform="translate(55.000000, 38.000000)">
                     <rect id="frame" stroke="#333333" fill="#FFFFFF" x="0" y="0" width="60" height="120" rx="3"></rect>
                     <circle id="button" fill="#D8D8D8" cx="30" cy="112" r="5"></circle>

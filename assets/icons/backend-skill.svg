@@ -7,7 +7,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" transform="translate(-52.000000, -286.000000)">
             <g id="backend-skill" transform="translate(54.000000, 288.000000)">
-                <polygon id="skillHexagon" stroke="#333333" stroke-width="3" fill="#FFFFFF" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 -5.9507364e-14 147 -1.13686838e-13 49"></polygon>
+                <polygon id="skillHexagon" fill="#FFFFFF" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 -5.9507364e-14 147 -1.13686838e-13 49"></polygon>
                 <g id="gears" transform="translate(40.000000, 53.000000)">
                     <circle id="Oval-3" fill="#333333" cx="45" cy="45" r="36"></circle>
                     <circle id="Oval-4" fill="#D8D8D8" cx="45" cy="45" r="9"></circle>

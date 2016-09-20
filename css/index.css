@@ -42,21 +42,50 @@ a:hover, a:active { text-decoration: none; color: black; }
 	width: 100%;
 }
 
+#project-link-container {
+	width: 100%;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	height: 120px;
+}
+
+#project-link-container button {
+	background-color: white;
+	color: #f8d56c;
+	border: 2px solid #f8d56c;
+	outline: none;
+	cursor: pointer;
+	-webkit-transition: 300ms;
+	margin: 0 auto;
+	border-radius: 4px;
+	align-self: center;
+	height: 70px;
+	width: 140px;
+	font-size: 22px;
+	font-weight: 400;
+}
+
+#project-link-container button:hover {
+	background-color: #f8d56c;
+	color: white;
+}
+
 #skills-container {
 	width: 100%;
-	background-color: #5369a8;
 	text-align: center;
+	background-color: #5369A8;
 	height: 100vh;
 	display: flex;
 }
 
 .skill-container {
 	width: 20%;
-	height: 100vh;
+	height: 100%;
 }
 
 .skill-icon {
-	padding-top: 10px;
+	padding-top: 20px;
 }
 
 .skill-category-label {
@@ -74,51 +103,23 @@ a:hover, a:active { text-decoration: none; color: black; }
 	font-weight: 400;
 }
 
-#project-link-container {
-	width: 100%;
-	background-color: #f8d56c;
-	display: flex;
-	justify-content: center;
-	height: 120px;
-}
-
-#project-link-container button {
-	background-color: #f8d56c;
-	color: white;
-	border: 2px solid white;
-	outline: none;
-	cursor: pointer;
-	-webkit-transition: 300ms;
-	margin: 0 auto;
-	border-radius: 4px;
-	align-self: center;
-	height: 70px;
-	width: 140px;
-	font-size: 22px;
-}
-
-#project-link-container button:hover {
-	background-color: white;
-	color: #f8d56c;
-}
-
 #contact-container {
-	background-color: #4cb07a;
+	background-color: white;
 	height: 250px;
 	text-align: center;
 }
 
 #contact-container p {
-	color: white;
+	color: #4cb07a;
 	padding-top: 40px;
 	font-weight: 400;
 	font-size: 26px;
 }
 
 #contact-container button {
-	background-color: #4cb07a;
-	color: white;
-	border: 2px solid white;
+	background-color: white;
+	color: #4cb07a;
+	border: 2px solid #4cb07a;
 	cursor: pointer;
 	-webkit-transition: 300ms;
 	outline: none;
@@ -132,13 +133,13 @@ a:hover, a:active { text-decoration: none; color: black; }
 }
 
 #contact-container button:hover {
-	background-color: white;
-	color: #4cb07a;
+	background-color: #4cb07a;
+	color: white;
 }
 
 #links-container {
 	background-color: #f66b6e;
-	height: 120px;
+	height: 100px;
 	display: block;
 }
 
