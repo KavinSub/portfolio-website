@@ -75,6 +75,30 @@ a:hover, a:active { text-decoration: none; color: black; }
 	font-weight: 400;
 }
 
+#project-link-container {
+	width: 100%;
+	background-color: #f8d56c;
+	display: flex;
+	justify-content: center;
+}
+
+#project-link-container button {
+	background-color: #f8d56c;
+	color: white;
+	border: 2px solid white;
+	outline: none;
+	cursor: pointer;
+	-webkit-transition: 300ms;
+	margin: 0 auto;
+	border-radius: 4px;
+	align-self: center;
+}
+
+#project-link-container button:hover {
+	background-color: white;
+	color: #f8d56c;
+}
+
 @media only screen and (max-width: 700px) {
 
 	#profile-image {
@@ -83,6 +107,16 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 18px;
+	}
+
+	#project-link-container {
+		height: 10vh;
+	}
+
+	#project-link-container button{
+		height: 50px;
+		width: 100px;
+		font-size: 16px;
 	}
 
 	.skill-icon {
@@ -97,6 +131,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 		font-size: 12px;
 	}
 
+	#skills-container {
+		height: 50vh;
+	}
+
 }
 
 @media only screen and (min-width: 701px) and (max-width: 1050px){
@@ -107,6 +145,16 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 24px;
+	}
+
+	#project-link-container {
+		height: 15vh;
+	}
+
+	#project-link-container button{
+		height: 65px;
+		width: 130px;
+		font-size: 19px;
 	}
 
 	.skill-icon {
@@ -121,6 +169,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 		font-size: 20px;
 	}
 
+	#skills-container {
+		height: 75vh;
+	}
+
 }
 
 @media only screen and (min-width: 1051px) and (max-width: 1440px) {
@@ -131,6 +183,16 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 30px;
+	}
+
+	#project-link-container {
+		height: 20vh;
+	}
+
+	#project-link-container button{
+		height: 80px;
+		width: 160px;
+		font-size: 22px;
 	}
 
 	.skill-icon {
@@ -154,6 +216,16 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text {
 		font-size: 36px;
+	}
+
+	#project-link-container {
+		height: 20vh;
+	}
+
+	#project-link-container button{
+		height: 80px;
+		width: 160px;
+		font-size: 22px;
 	}
 
 	.skill-icon {
