@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	font-family: "Roboto";
+}
+
+a { text-decoration: none; }
+
+a:visited { text-decoration: none; color: black; }
+
+a:hover { text-decoration: none; color: black; }
+
+a:focus { text-decoration: none; color: black; }
+
+a:hover, a:active { text-decoration: none; color: black; }
+
+#links-container {
+	background-color: #f66b6e;
+	height: 100px;
+	display: block;
+}
+
+.link-container {
+	padding-top: 40px;
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+
+.link-container a {
+	font-size: 18px;
+}
