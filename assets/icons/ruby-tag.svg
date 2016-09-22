@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="62px" viewBox="0 0 54 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>ruby-tag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-320.000000, -126.000000)">
+            <g id="ruby-tag" transform="translate(317.000000, 127.000000)">
+                <polygon id="Polygon" stroke="#000000" fill="#FFFFFF" points="30 0 55.9807621 15 55.9807621 45 30 60 4.01923789 45 4.01923789 15"></polygon>
+                <g id="ruby" transform="translate(15.000000, 19.000000)">
+                    <path d="M15.5,27 L25.8333333,6.23076923 L15.5,6.23076923 L15.5,27 Z M15.5,27 L5.16666667,6.23076923 L15.5,6.23076923 L15.5,27 Z" id="Combined-Shape" fill="#EB4D5A"></path>
+                    <polygon id="Triangle-2-Copy-2" fill="#D74D5A" transform="translate(7.750000, 16.615385) scale(-1, -1) translate(-7.750000, -16.615385) " points="0 6.23076923 15.5 27 10.3333333 27"></polygon>
+                    <polygon id="Triangle-2-Copy-3" fill="#D74D5A" transform="translate(23.250000, 16.615385) scale(1, -1) translate(-23.250000, -16.615385) " points="15.5 6.23076923 31 27 25.8333333 27"></polygon>
+                    <polygon id="Triangle-3" fill="#EB4D5A" points="2.48 0 5.16666667 6.23076923 0 6.23076923"></polygon>
+                    <polygon id="Triangle-3-Copy" fill="#EB4D5A" transform="translate(28.416667, 3.115385) scale(-1, 1) translate(-28.416667, -3.115385) " points="28.3133333 0 31 6.23076923 25.8333333 6.23076923"></polygon>
+                    <polygon id="Triangle-4" fill="#FF4D5A" points="15.5 0 25.8333333 6.23076923 5.16666667 6.23076923"></polygon>
+                    <polygon id="Triangle-5" fill="#D74D5A" points="2.47964402 0 15.5 0 5.16666667 6.23148242"></polygon>
+                    <polygon id="Triangle-5-Copy" fill="#D74D5A" transform="translate(22.010178, 3.115741) scale(-1, 1) translate(-22.010178, -3.115741) " points="15.5 0 28.520356 0 18.1870226 6.23148242"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

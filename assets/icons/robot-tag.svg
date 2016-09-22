@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="62px" viewBox="0 0 54 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>robot-tag</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-220.000000, -126.000000)">
+            <g id="robot-tag" transform="translate(217.000000, 127.000000)">
+                <polygon id="Polygon" stroke="#000000" fill="#FFFFFF" points="30 0 55.9807621 15 55.9807621 45 30 60 4.01923789 45 4.01923789 15"></polygon>
+                <g id="robot" transform="translate(16.000000, 10.000000)">
+                    <g id="robotFace" transform="translate(0.000000, 10.000000)">
+                        <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="28" height="21"></rect>
+                        <g id="visor" transform="translate(0.000000, 5.250000)">
+                            <rect id="Rectangle-2" fill="#F66B6E" x="0" y="0.875" width="28" height="3.5"></rect>
+                            <rect id="Rectangle-4" fill="#333333" x="0" y="0" width="28" height="0.875"></rect>
+                            <rect id="Rectangle-4-Copy" fill="#333333" x="0" y="4.375" width="28" height="0.875"></rect>
+                        </g>
+                        <circle id="Oval" fill="#FFFFFF" cx="5.25" cy="7.875" r="1.75"></circle>
+                        <circle id="Oval-Copy" fill="#FFFFFF" cx="22.75" cy="7.875" r="1.75"></circle>
+                    </g>
+                    <polygon id="Triangle" fill="#D8D8D8" points="14.5 0 16 10 13 10"></polygon>
+                    <circle id="Oval-3" fill="#F66B6E" cx="14.5" cy="1.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
