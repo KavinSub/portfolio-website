@@ -37,9 +37,17 @@ a:hover, a:active { text-decoration: none; color: black; }
 }
 
 .about-text {
+	padding-top: 12px;
 	color: white;
-	font-weight: 500;
 	width: 100%;
+}
+
+.about-text-name {
+	font-weight: 500;
+}
+
+.about-text-title {
+	font-weight: 300;
 }
 
 #project-link-container {
@@ -48,6 +56,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 	display: flex;
 	justify-content: center;
 	height: 120px;
+}
+
+.project-link {
+	align-self: center;
 }
 
 #project-link-container button {
@@ -143,8 +155,12 @@ a:hover, a:active { text-decoration: none; color: black; }
 		width: 33%;
 	}
 
-	.about-text {
-		font-size: 18px;
+	.about-text-name {
+		font-size: 24px;
+	}
+
+	.about-text-title {
+		font-size: 20px;
 	}
 
 	.skill-icon {
@@ -182,8 +198,12 @@ a:hover, a:active { text-decoration: none; color: black; }
 		width: 25%;
 	}
 
-	.about-text {
+	.about-text-name {
 		font-size: 24px;
+	}
+
+	.about-text-title {
+		font-size: 20px;
 	}
 
 	#project-link-container {
@@ -220,8 +240,12 @@ a:hover, a:active { text-decoration: none; color: black; }
 		width: 20%;
 	}
 
-	.about-text {
+	.about-text-name{
 		font-size: 30px;
+	}
+
+	.about-text-title {
+		font-size: 25px;
 	}
 
 	.skill-icon {
@@ -243,8 +267,12 @@ a:hover, a:active { text-decoration: none; color: black; }
 		width: 20%;
 	}
 
-	.about-text {
+	.about-text-name {
 		font-size: 36px;
+	}
+
+	.about-text-title {
+		font-size: 30px;
 	}
 
 	.skill-icon {

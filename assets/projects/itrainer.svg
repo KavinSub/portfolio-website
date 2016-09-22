@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="175px" height="175px" viewBox="0 0 175 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>itrainer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.37209302,1.40540541 C9.37209302,1.40540541 12.255814,2.53550934e-16 15.5,0 C18.744186,0 21.627907,1.40540541 21.627907,1.40540541 L18.744186,9.13513514 L12.255814,9.13513514 L9.37209302,1.40540541 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12.255814" height="9.13513514" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="3:2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-137.000000, -85.000000)">
+            <g id="itrainer" transform="translate(137.000000, 85.000000)">
+                <rect id="logo-background" fill="#FFFFFF" x="0" y="0" width="175" height="175"></rect>
+                <g id="main-logo" transform="translate(30.000000, 22.000000)">
+                    <polygon id="logo-shell" fill="#D8D8D8" points="57.5 0 114.224664 32.75 114.224664 98.25 57.5 131 0.775336052 98.25 0.775336052 32.75"></polygon>
+                    <g id="logo" transform="translate(7.000000, 8.000000)">
+                        <polygon id="Polygon" fill="#0A6570" points="50.2294734 0 100.458947 29 100.458947 87 50.2294734 116 4.88498131e-14 87 1.59872116e-14 29"></polygon>
+                        <path d="M89.3787637,80.6941447 L32.2444945,53.5053911 C29.114326,52.1290067 25.4624628,53.6774392 24.2451751,56.7743042 L23.0278873,60.7365708 C22.5061926,62.1129551 22.5061926,63.6613877 23.0278873,65.037772 L27.027547,75.8767993 L20.6576542,84.9643774 C19.6142647,86.3424822 19.788163,88.4053384 21.3532472,89.4393472 C21.874942,89.9554913 22.570535,90.1258189 23.2661279,90.1258189 C24.3095174,90.1258189 25.1790087,89.6079543 25.8746017,88.923203 L33.8095787,78.6295681 C34.3277955,77.9895494 34.5538632,77.2531837 34.4929988,76.4944518 C34.4303954,76.3791796 34.3643141,76.2639074 34.3295345,76.1314304 L32.0688572,67.3552593 C31.8323556,66.4348022 32.394047,65.4971403 33.3244026,65.263155 C34.2564972,65.0240082 35.2007647,65.5848849 35.4390053,66.505342 L37.2875436,73.5971626 L53.9174331,78.0067542 L86.074697,89.9159203 C88.161476,90.6023921 90.7508209,89.1829956 91.6203121,87.1201395 C92.4898033,85.0538423 92.2550407,81.8778353 89.3787637,80.6941447 L89.3787637,80.6941447 L89.3787637,80.6941447 Z" id="Shape" fill="#FFFFFF"></path>
+                        <g id="pepper-head" transform="translate(7.000000, 27.000000)">
+                            <path d="M15.5,26 C21.627907,26 27.6531907,20.7546606 31,18.972973 L31,10.5405405 C27.3953488,2.81081081 20.1860465,-1.0658141e-14 15.5,-1.0658141e-14 C10.8139535,-2.06441471e-14 3.60465116,2.81081081 0,10.5405405 C0,12.9917817 0,16.1621622 3.14192127e-15,18.972973 C3.36801191,20.7947483 9.37209302,26 15.5,26 Z" id="head" fill="#FFFFFF"></path>
+                            <use id="Rectangle" stroke="#0A6570" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <ellipse id="Oval" fill="#000000" cx="9.37209302" cy="13.3513514" rx="2.88372093" ry="2.81081081"></ellipse>
+                            <ellipse id="Oval-Copy" fill="#000000" cx="21.627907" cy="13.3513514" rx="2.88372093" ry="2.81081081"></ellipse>
+                            <ellipse id="Oval-2" fill="#FFFFFF" filter="url(#filter-3)" cx="8.29069767" cy="13" rx="1.08139535" ry="1.05405405"></ellipse>
+                            <ellipse id="Oval-2-Copy" fill="#FFFFFF" filter="url(#filter-4)" cx="20.5465116" cy="13" rx="1.08139535" ry="1.05405405"></ellipse>
+                            <ellipse id="Oval-3" fill="#000000" cx="15.5" cy="21.4324324" rx="1.08139535" ry="1.05405405"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
