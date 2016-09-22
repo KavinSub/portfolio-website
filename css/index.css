@@ -126,20 +126,20 @@ a:hover, a:active { text-decoration: none; color: black; }
 	font-weight: 400;
 }
 
-#contact-container {
+.contact-container {
 	background-color: white;
 	height: 250px;
 	text-align: center;
 }
 
-#contact-container p {
+.contact-container p {
 	color: #4cb07a;
 	padding-top: 40px;
 	font-weight: 400;
 	font-size: 26px;
 }
 
-#contact-container button {
+.contact-container button {
 	background-color: white;
 	color: #4cb07a;
 	border: 2px solid #4cb07a;
@@ -155,7 +155,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	margin-top: 60px;
 }
 
-#contact-container button:hover {
+.contact-container button:hover {
 	background-color: #4cb07a;
 	color: white;
 }
@@ -175,7 +175,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	}
 
 	.project-link-container {
-		height: 50px;
+		height: 60px;
 	}
 
 	.project-link-container button {
@@ -200,15 +200,20 @@ a:hover, a:active { text-decoration: none; color: black; }
 		height: 50vh;
 	}
 
-	#contact-container p {
-		font-size: 22px;
+	.contact-container {
+		height: 180px;
 	}
 
-	#contact-container button{
-		height: 60px;
-		width: 120px;
+	.contact-container p {
 		font-size: 18px;
-		margin-top: 60px;
+		padding-top: 40px;
+	}
+
+	.contact-container button{
+		height: 40px;
+		width: 80px;
+		font-size: 14px;
+		margin-top: 40px;
 	}
 
 }
@@ -227,15 +232,6 @@ a:hover, a:active { text-decoration: none; color: black; }
 		font-size: 20px;
 	}
 
-	#project-link-container {
-		height: 15vh;
-	}
-
-	#project-link-container button{
-		height: 65px;
-		width: 130px;
-		font-size: 19px;
-	}
 
 	.skill-icon {
 		width: 70%;
