@@ -20,7 +20,16 @@ a:hover, a:active { text-decoration: none; color: black; }
 	padding: 0px;
 }
 
-#about-container {
+.about-section {
+	width: 100%;
+}
+
+.about-section-profile {
+
+}
+
+/* Old about section */
+/*#about-container {
 	width: 100%;
 	background-color: #333333;
 	text-align: center;
@@ -48,9 +57,11 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 .about-text-title {
 	font-weight: 300;
-}
+}*/
 
-#project-link-container {
+
+
+.project-link-container {
 	width: 100%;
 	background-color: white;
 	display: flex;
@@ -62,7 +73,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	align-self: center;
 }
 
-#project-link-container button {
+.project-link-container button {
 	background-color: white;
 	color: #f8946c;
 	border: 2px solid #f8946c;
@@ -78,7 +89,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	font-weight: 400;
 }
 
-#project-link-container button:hover {
+.project-link-container button:hover {
 	background-color: #f8946c;
 	color: white;
 }
@@ -161,6 +172,16 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.about-text-title {
 		font-size: 20px;
+	}
+
+	.project-link-container {
+		height: 50px;
+	}
+
+	.project-link-container button {
+		height: 40px;
+		width: 80px;
+		font-size: 14px;
 	}
 
 	.skill-icon {

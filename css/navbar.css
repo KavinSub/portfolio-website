@@ -33,6 +33,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 @media only screen and (max-width: 700px) {
 
+	.header {
+		height: 30px;
+	}
+
 	.header-link {
 		width: 33%;
 		float: left;
@@ -40,11 +44,11 @@ a:hover, a:active { text-decoration: none; color: black; }
 	}
 
 	.header-link {
-		padding-top: 22px;
+		padding-top: 6px;
 	}
 
 	.header-link a {
-		font-size: 18px;
+		font-size: 12px;
 	}
 
 }
