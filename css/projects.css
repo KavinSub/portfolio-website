@@ -71,6 +71,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 		display: none;
 	}
 
+	.project-content-icontags {
+		display: none;
+	}
+
 }
 
 @media only screen and (min-width: 1051px) {

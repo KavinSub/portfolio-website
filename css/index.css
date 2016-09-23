@@ -21,45 +21,34 @@ a:hover, a:active { text-decoration: none; color: black; }
 }
 
 .about-section {
-	width: 100%;
+	height: auto;
 }
 
-.about-section-profile {
-
-}
-
-/* Old about section */
-/*#about-container {
-	width: 100%;
-	background-color: #333333;
-	text-align: center;
-	height: 100vh;
-}
-
-#profile-image-wrapper {
-	text-align: center;
-}
-
-#profile-image {
-	padding-top: 20px;
+.about-section-profile-image {
 	border-radius: 50%;
 }
 
-.about-text {
-	padding-top: 12px;
-	color: white;
-	width: 100%;
-}
-
-.about-text-name {
+.about-section-profile-name {
+	color: #333;
 	font-weight: 500;
 }
 
-.about-text-title {
-	font-weight: 300;
-}*/
+.about-section-faq {
+	text-align: center;
+}
 
+.about-section-faq-header {
+	font-size: 20px;
+	color: #333;
+}
 
+.about-section-faq-question {
+	color: #333;
+}
+
+.about-section-faq-answer {
+	color: #555;
+}
 
 .project-link-container {
 	width: 100%;
@@ -162,16 +151,42 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 @media only screen and (max-width: 700px) {
 
-	#profile-image {
-		width: 33%;
+	.about-section-profile {
+		width: 100%;
+		text-align: center;
 	}
 
-	.about-text-name {
-		font-size: 24px;
+	.about-section-profile-image {
+		height: 80px;
+		padding-top: 10px;
 	}
 
-	.about-text-title {
+	.about-section-profile-name {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 26px;
+	}
+
+	.about-section-faq {
+		width: 100%;
+	}
+
+	.about-section-faq-header {
+		padding-top: 10px;
 		font-size: 20px;
+		padding-bottom: 10px;
+	}
+
+	.about-section-faq-question {
+		font-size: 18px;
+		padding-bottom: 5px;
+	}
+
+	.about-section-faq-answer {
+		font-size: 16px;
+		padding-bottom: 10px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
 
 	.project-link-container {
@@ -220,18 +235,42 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 @media only screen and (min-width: 701px) and (max-width: 1050px){
 
-	#profile-image {
-		width: 25%;
+	.about-section-profile {
+		width: 100%;
+		text-align: center;
+	}
+	
+	.about-section-profile-image {
+		height: 240px;
+		padding-top: 10px;
 	}
 
-	.about-text-name {
+	.about-section-profile-name {
+		padding-top: 10px;
+		padding-bottom: 25px;
+		font-size: 34px;
+	}
+
+	.about-section-faq {
+		width: 100%;
+	}
+
+	.about-section-faq-header {
+		padding-bottom: 25px;
+		font-size: 28px;
+	}
+
+	.about-section-faq-question {
 		font-size: 24px;
+		padding-bottom: 5px;
 	}
 
-	.about-text-title {
+	.about-section-faq-answer {
 		font-size: 20px;
+		padding-bottom: 10px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
-
 
 	.skill-icon {
 		width: 70%;
@@ -251,18 +290,43 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 }
 
-@media only screen and (min-width: 1051px) and (max-width: 1440px) {
+@media only screen and (min-width: 1051px) {
 
-	#profile-image {
-		width: 20%;
+	.about-section-profile {
+		width: 100%;
+		text-align: center;
+	}
+	
+	.about-section-profile-image {
+		height: 360px;
+		padding-top: 10px;
 	}
 
-	.about-text-name{
-		font-size: 30px;
+	.about-section-profile-name {
+		padding-top: 10px;
+		padding-bottom: 25px;
+		font-size: 44px;
 	}
 
-	.about-text-title {
-		font-size: 25px;
+	.about-section-faq {
+		width: 100%;
+	}
+
+	.about-section-faq-header {
+		padding-bottom: 25px;
+		font-size: 36px;
+	}
+
+	.about-section-faq-question {
+		font-size: 28px;
+		padding-bottom: 15px;
+	}
+
+	.about-section-faq-answer {
+		font-size: 24px;
+		padding-bottom: 15px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
 
 	.skill-icon {
@@ -276,32 +340,4 @@ a:hover, a:active { text-decoration: none; color: black; }
 	.skill-item {
 		font-size: 28px;
 	}
-}
-
-@media only screen and (min-width: 1441px) {
-
-	#profile-image {
-		width: 20%;
-	}
-
-	.about-text-name {
-		font-size: 36px;
-	}
-
-	.about-text-title {
-		font-size: 30px;
-	}
-
-	.skill-icon {
-		width: 65%;
-	}
-
-	.skill-category-label {
-		font-size: 40px;
-	}
-
-	.skill-item {
-		font-size: 36px;
-	}
-
 }
