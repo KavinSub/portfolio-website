@@ -7,7 +7,7 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" transform="translate(-242.000000, -25.000000)">
             <g id="web-skill" transform="translate(244.000000, 27.000000)">
-                <polygon id="skillHexagon" fill="#FFFFFF" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 6.57252031e-14 147 1.0658141e-14 49"></polygon>
+                <polygon id="skillHexagon" stroke="#5369a8" stroke-width="3" fill="#FFFFFF" points="84.8704896 0 169.740979 49 169.740979 147 84.8704896 196 6.57252031e-14 147 1.0658141e-14 49"></polygon>
                 <g id="web" transform="translate(25.000000, 50.000000)">
                     <rect id="Rectangle" fill="#5369A8" x="0" y="0" width="120" height="90" rx="3"></rect>
                     <circle id="Oval" fill="#F66B6E" cx="4.5" cy="4.5" r="2.5"></circle>

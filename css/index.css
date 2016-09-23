@@ -15,6 +15,10 @@ a:focus { text-decoration: none; color: black; }
 
 a:hover, a:active { text-decoration: none; color: black; }
 
+.divider {
+	height: 3px;
+}
+
 #main-container {
 	width: 100%;
 	padding: 0px;
@@ -56,6 +60,8 @@ a:hover, a:active { text-decoration: none; color: black; }
 	display: flex;
 	justify-content: center;
 	height: 120px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .project-link {
@@ -83,36 +89,20 @@ a:hover, a:active { text-decoration: none; color: black; }
 	color: white;
 }
 
-#skills-container {
+.skill-section {
 	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+
+.skill-section-label {
 	text-align: center;
-	background-color: #5369A8;
-	height: 100vh;
-	display: flex;
+	color: #333;
 }
 
-.skill-container {
-	width: 20%;
-	height: 100%;
-}
-
-.skill-icon {
-	padding-top: 20px;
-}
-
-.skill-category-label {
-	color: white;
-	font-weight: 500;
-}
-
-.skill-list {
-	list-style: none;
-	padding-left: 0px;
-}
-
-.skill-item {
-	color: white;
-	font-weight: 400;
+.skill-section-skill {
+	color: #555;
+	text-align: center;
 }
 
 .contact-container {
@@ -190,29 +180,37 @@ a:hover, a:active { text-decoration: none; color: black; }
 	}
 
 	.project-link-container {
-		height: 60px;
+		height: 80px;
+		margin-top: 20px;
+		margin-bottom: 20px;
 	}
 
 	.project-link-container button {
-		height: 40px;
-		width: 80px;
-		font-size: 14px;
+		height: 60px;
+		width: 120px;
+		font-size: 18px;
 	}
 
-	.skill-icon {
-		width: 75%;
+	.skill-section-container {
+		width: 50%;
+		position: relative;
+		float: left;
+		height: 400px;
+		margin-bottom: 20px;
 	}
 
-	.skill-category-label {
-		font-size: 16px;
+	.skill-section-icon {
+		margin: 15px 15px 15px 15px;
 	}
 
-	.skill-item {
-		font-size: 12px;
+	.skill-section-label {
+		font-size: 28px;
+		padding-bottom: 10px;
 	}
 
-	#skills-container {
-		height: 50vh;
+	.skill-section-skill {
+		font-size: 18px;
+		padding-bottom: 5px;
 	}
 
 	.contact-container {
@@ -225,9 +223,9 @@ a:hover, a:active { text-decoration: none; color: black; }
 	}
 
 	.contact-container button{
-		height: 40px;
-		width: 80px;
-		font-size: 14px;
+		height: 50px;
+		width: 100px;
+		font-size: 16px;
 		margin-top: 40px;
 	}
 
@@ -272,20 +270,26 @@ a:hover, a:active { text-decoration: none; color: black; }
 		margin-right: 20px;
 	}
 
-	.skill-icon {
-		width: 70%;
+
+	.skill-section-container {
+		width: 33.3%;
+		position: relative;
+		float: left;
+		height: 650px;
 	}
 
-	.skill-category-label {
+	.skill-section-icon {
+		margin: 30px 30px 30px 30px;
+	}
+
+	.skill-section-label {
+		font-size: 36px;
+		padding-bottom: 10px;
+	}
+
+	.skill-section-skill {
 		font-size: 24px;
-	}
-
-	.skill-item {
-		font-size: 20px;
-	}
-
-	#skills-container {
-		height: 75vh;
+		padding-bottom: 5px;
 	}
 
 }
@@ -329,15 +333,26 @@ a:hover, a:active { text-decoration: none; color: black; }
 		margin-right: 20px;
 	}
 
-	.skill-icon {
-		width: 70%;
+	.skill-section-container {
+		width: 20%;
+		position: relative;
+		float: left;
+		height: auto;
+		margin-bottom: 40px;
 	}
 
-	.skill-category-label {
-		font-size: 32px;
+	.skill-section-icon {
+		margin: 35px 35px 35px 35px;
 	}
 
-	.skill-item {
+	.skill-section-label {
+		font-size: 44px;
+		padding-bottom: 10px;
+	}
+
+	.skill-section-skill {
 		font-size: 28px;
+		padding-bottom: 5px;
 	}
+
 }
