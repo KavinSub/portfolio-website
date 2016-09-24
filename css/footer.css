@@ -1,6 +1,11 @@
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Regular.otf");
+}
+
 * {
 	margin: 0;
-	font-family: "Roboto";
+	font-family: "Source Sans Pro";
 }
 
 a { text-decoration: none; }
@@ -17,10 +22,12 @@ a:hover, a:active { text-decoration: none; color: black; }
 	background-color: #f66b6e;
 	height: 100px;
 	display: block;
+	padding-left: 200px;
+	padding-right: 200px;
 }
 
 .link-container {
-	padding-top: 40px;
+	padding-top: 25px;
 	width: 33%;
 	float: left;
 	text-align: center;
@@ -28,11 +35,25 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 .link-container a {
 	font-size: 18px;
+	cursor: pointer;
+}
+
+.link-container-icon {
+	width: 50px;
+	height: 50px;
+	-webkit-transition: 150ms;
+}
+
+.link-container-icon:hover {
+	width: 55px;
+	height: 55px;
 }
 
 @media only screen and (max-width: 700px) {
 	.links-container {
 		height: 50px;
+		padding-left: 0px;
+		padding-right: 0px;
 	}
 
 	.link-container {
@@ -41,5 +62,15 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 	.link-container a{
 		font-size: 14px;
+	}
+
+	.link-container-icon {
+		width: 20px;
+		height: 20px;
+	}
+
+	.link-container-icon:hover {
+		width: 22px;
+		height: 22px;
 	}
 }
