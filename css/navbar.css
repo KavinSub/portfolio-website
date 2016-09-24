@@ -14,7 +14,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 .header {
 	height: 75px;
-	background-color: #f66b6e;
+	background-color: rgba(246, 107, 110, 0.95);
 }
 
 .header-link-container {

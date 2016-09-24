@@ -19,7 +19,7 @@ a:focus { text-decoration: none; color: black; }
 a:hover, a:active { text-decoration: none; color: black; }
 
 .links-container {
-	background-color: #f66b6e;
+	background-color: rgba(246, 107, 110, 0.95);
 	text-align: center;
 	height: 120px;
 	display: block;
@@ -53,7 +53,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 .footer-copyright-container {
 	height: 30px;
-	background-color: #f66b6e;
+	background-color: rgba(246, 107, 110, 0.95);
 	text-align: center;
 	width: 100%;
 }
