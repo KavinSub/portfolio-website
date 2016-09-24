@@ -40,15 +40,18 @@ a:hover, a:active { text-decoration: none; color: black; }
 
 .about-section-faq-header {
 	font-size: 20px;
+	font-weight: 400;
 	color: #333;
 }
 
 .about-section-faq-question {
 	color: #333;
+	font-weight: 400;
 }
 
 .about-section-faq-answer {
 	color: #555;
+	font-weight: 300;
 }
 
 .project-link-container {
@@ -92,14 +95,22 @@ a:hover, a:active { text-decoration: none; color: black; }
 	overflow: hidden;
 }
 
+.skill-section-header {
+	color: #333;
+	text-align: center;
+	font-weight: 600;
+}
+
 .skill-section-label {
 	text-align: center;
 	color: #333;
+	font-weight: 400;
 }
 
 .skill-section-skill {
 	color: #555;
 	text-align: center;
+	font-weight: 300;
 }
 
 .contact-container {
@@ -129,6 +140,7 @@ a:hover, a:active { text-decoration: none; color: black; }
 	width: 120px;
 	font-size: 20px;
 	margin-top: 60px;
+	font-weight: 400;
 }
 
 .contact-container button:hover {
@@ -194,6 +206,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 		float: left;
 		height: 400px;
 		margin-bottom: 20px;
+	}
+
+	.skill-section-header {
+		font-size: 30px;
 	}
 
 	.skill-section-icon {
@@ -267,6 +283,9 @@ a:hover, a:active { text-decoration: none; color: black; }
 		margin-right: 20px;
 	}
 
+	.skill-section-header {
+		font-size: 50px;
+	}
 
 	.skill-section-container {
 		width: 33.3%;
@@ -343,6 +362,10 @@ a:hover, a:active { text-decoration: none; color: black; }
 	.skill-section {
 		margin-bottom: 40px;
 		margin-top: 40px;
+	}
+
+	.skill-section-header {
+		font-size: 50px;
 	}
 
 	.skill-section-container {
