@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="290px" viewBox="0 0 200 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <!-- Author: Kavin Subramanyam -->
+    <title>lock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M79.5,90 C79.5,90 116.534504,90 160,90 C160,40.2943725 124.18278,0 80,0 C35.81722,0 0,40.2943725 0,90 C35.6302813,90 79.5,90 79.5,90 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-275.000000, -225.000000)">
+            <g id="lock" transform="translate(275.000000, 225.000000)">
+                <g id="Oval-2-Copy" transform="translate(20.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#333333" xlink:href="#path-1"></use>
+                    <ellipse fill="#FFFFFF" mask="url(#mask-2)" cx="80" cy="90" rx="55" ry="61.875"></ellipse>
+                </g>
+                <rect id="Rectangle" fill="#F8D56C" x="0" y="90" width="200" height="200"></rect>
+                <g id="lockhole" transform="translate(83.000000, 152.000000)" fill="#333333">
+                    <path d="M26.3008558,32.8421446 C31.5035596,29.7893538 35,24.1127423 35,17.6141659 C35,7.88613069 27.1649831,0 17.5,0 C7.83501688,0 0,7.88613069 0,17.6141659 C0,24.1127423 3.4964404,29.7893538 8.69914423,32.8421446 L0,76.6216216 L35,76.6216216 L26.3008558,32.8421446 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

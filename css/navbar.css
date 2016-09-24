@@ -36,8 +36,12 @@ a:hover, a:active { text-decoration: none; color: black; }
 		height: 40px;
 	}
 
+	.header-placeholder {
+		margin-right: 17%;
+	}
+
 	.header-link {
-		width: 33%;
+		width: 25%;
 		float: left;
 		text-align: center;
 	}
@@ -55,13 +59,13 @@ a:hover, a:active { text-decoration: none; color: black; }
 @media only screen and (min-width: 701px) {
 	
 	.header-link {
-		width: 20%;
+		width: 15%;
 		float: left;
 		text-align: center;
 	}
 
 	.header-placeholder {
-		margin-right: 27%;
+		margin-right: 37%;
 	}
 
 	.header-link {

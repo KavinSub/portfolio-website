@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
-    <!-- Author: Kavin Subramanyam -->
     <title>Desktop HD</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -476,6 +475,99 @@
                 <path d="M23.3581395,18.1541284 C22.9811945,17.8757572 22.3796557,16.8440367 19.7790698,16.8440367 C19.7790698,15.3536268 19.7790698,15.8645066 19.7790698,14.9724771 C23.0182586,14.9724771 23.675725,15.8944447 24.6767442,16.8440367 C25.6107141,17.7264005 26.372093,18.4894385 26.372093,21.5229358 C26.372093,22.7784023 26.1222922,22.6698301 25.4430022,22.6698301 C24.7637123,22.6698301 24.4883721,22.7706422 24.4883721,21.5229358 C24.4883721,19.4858068 23.9961555,18.9200959 23.3581395,18.1541284 Z" id="Rectangle-6-Copy-2" fill="#F8D56C"></path>
                 <polygon id="claw" fill="#F66B6E" points="24.4883721 22.146789 26.372093 22.146789 27 23.3944954 26.372093 23.3944954 26.0581395 22.7706422 24.8023256 22.7706422 24.4883721 23.3944954 23.8604651 23.3944954"></polygon>
                 <polygon id="claw-copy" fill="#F66B6E" points="0.627906977 22.146789 2.51162791 22.146789 3.13953488 23.3944954 2.51162791 23.3944954 2.19767442 22.7706422 0.941860465 22.7706422 0.627906977 23.3944954 0 23.3944954"></polygon>
+            </g>
+            <g id="secret-matrix" transform="translate(413.000000, 602.000000)">
+                <ellipse id="Oval-9" fill="#EEEEEE" cx="1.84615385" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy" fill="#777777" cx="9.23076923" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-2" fill="#EEEEEE" cx="16.6153846" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-3" fill="#777777" cx="24" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-4" fill="#777777" cx="31.3846154" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-5" fill="#777777" cx="38.7692308" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-6" fill="#777777" cx="46.1538462" cy="1.84" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-13" fill="#777777" cx="1.84615385" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-12" fill="#777777" cx="9.23076923" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-11" fill="#777777" cx="16.6153846" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-10" fill="#EEEEEE" cx="24" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-9" fill="#EEEEEE" cx="31.3846154" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-8" fill="#777777" cx="38.7692308" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-7" fill="#777777" cx="46.1538462" cy="9.2" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-20" fill="#777777" cx="1.84615385" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-19" fill="#777777" cx="9.23076923" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-18" fill="#EEEEEE" cx="16.6153846" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-17" fill="#EEEEEE" cx="24" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-16" fill="#777777" cx="31.3846154" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-15" fill="#EEEEEE" cx="38.7692308" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-14" fill="#777777" cx="46.1538462" cy="16.56" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-27" fill="#777777" cx="1.84615385" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-26" fill="#777777" cx="9.23076923" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-25" fill="#EEEEEE" cx="16.6153846" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-24" fill="#EEEEEE" cx="24" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-23" fill="#EEEEEE" cx="31.3846154" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-22" fill="#777777" cx="38.7692308" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-21" fill="#777777" cx="46.1538462" cy="23.92" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-34" fill="#777777" cx="1.84615385" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-33" fill="#777777" cx="9.23076923" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-32" fill="#777777" cx="16.6153846" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-31" fill="#EEEEEE" cx="24" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-30" fill="#EEEEEE" cx="31.3846154" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-29" fill="#777777" cx="38.7692308" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-28" fill="#EEEEEE" cx="46.1538462" cy="31.28" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-41" fill="#777777" cx="1.84615385" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-40" fill="#777777" cx="9.23076923" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-39" fill="#EEEEEE" cx="16.6153846" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-38" fill="#EEEEEE" cx="24" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-37" fill="#777777" cx="31.3846154" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-36" fill="#EEEEEE" cx="38.7692308" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-35" fill="#777777" cx="46.1538462" cy="38.64" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-48" fill="#777777" cx="1.84615385" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-47" fill="#777777" cx="9.23076923" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-46" fill="#777777" cx="16.6153846" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-45" fill="#EEEEEE" cx="24" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-44" fill="#777777" cx="31.3846154" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-43" fill="#EEEEEE" cx="38.7692308" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-42" fill="#EEEEEE" cx="46.1538462" cy="46" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-55" fill="#777777" cx="1.84615385" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-54" fill="#777777" cx="9.23076923" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-53" fill="#777777" cx="16.6153846" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-52" fill="#EEEEEE" cx="24" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-51" fill="#EEEEEE" cx="31.3846154" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-50" fill="#777777" cx="38.7692308" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-49" fill="#777777" cx="46.1538462" cy="53.36" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-62" fill="#EEEEEE" cx="1.84615385" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-61" fill="#777777" cx="9.23076923" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-60" fill="#EEEEEE" cx="16.6153846" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-59" fill="#777777" cx="24" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-58" fill="#777777" cx="31.3846154" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-57" fill="#777777" cx="38.7692308" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-56" fill="#EEEEEE" cx="46.1538462" cy="60.72" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-69" fill="#777777" cx="1.84615385" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-68" fill="#777777" cx="9.23076923" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-67" fill="#EEEEEE" cx="16.6153846" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-66" fill="#777777" cx="24" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-65" fill="#EEEEEE" cx="31.3846154" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-64" fill="#EEEEEE" cx="38.7692308" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-63" fill="#EEEEEE" cx="46.1538462" cy="68.08" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-76" fill="#777777" cx="1.84615385" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-75" fill="#777777" cx="9.23076923" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-74" fill="#777777" cx="16.6153846" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-73" fill="#EEEEEE" cx="24" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-72" fill="#777777" cx="31.3846154" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-71" fill="#EEEEEE" cx="38.7692308" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-70" fill="#EEEEEE" cx="46.1538462" cy="75.44" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-83" fill="#777777" cx="1.84615385" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-82" fill="#777777" cx="9.23076923" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-81" fill="#EEEEEE" cx="16.6153846" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-80" fill="#777777" cx="24" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-79" fill="#777777" cx="31.3846154" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-78" fill="#EEEEEE" cx="38.7692308" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-77" fill="#777777" cx="46.1538462" cy="82.8" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-90" fill="#777777" cx="1.84615385" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-89" fill="#777777" cx="9.23076923" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-88" fill="#EEEEEE" cx="16.6153846" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-87" fill="#777777" cx="24" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-86" fill="#777777" cx="31.3846154" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-85" fill="#EEEEEE" cx="38.7692308" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
+                <ellipse id="Oval-9-Copy-84" fill="#EEEEEE" cx="46.1538462" cy="90.16" rx="1.84615385" ry="1.84"></ellipse>
             </g>
         </g>
     </g>
