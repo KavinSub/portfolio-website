@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <!-- Author: Kavin Subramanyam -->
     <title>Desktop HD</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -20,86 +21,38 @@
         <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9" height="22.2" fill="white">
             <use xlink:href="#path-7"></use>
         </mask>
-        <rect id="path-9" x="49.3333333" y="49.3333333" width="8.22222222" height="24.6666667"></rect>
-        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8.22222222" height="24.6666667" fill="white">
+        <rect id="path-9" x="0" y="23" width="45" height="2"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="45" height="2" fill="white">
             <use xlink:href="#path-9"></use>
         </mask>
-        <rect id="path-11" x="90.4444444" y="49.3333333" width="8.22222222" height="24.6666667"></rect>
-        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8.22222222" height="24.6666667" fill="white">
+        <path d="M34.5,27 C36.4329966,27 38,25.4329966 38,23.5 C38,21.5670034 36.4329966,20 34.5,20 C32.5670034,20 31,21.5670034 31,23.5 C31,25.4329966 32.5670034,27 34.5,27 Z" id="path-11"></path>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7" height="7" fill="white">
             <use xlink:href="#path-11"></use>
         </mask>
-        <rect id="path-13" x="0" y="0" width="16.4444444" height="24.6666667"></rect>
-        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.4444444" height="24.6666667" fill="white">
+        <path d="M5.5,27 C7.43299662,27 9,25.4329966 9,23.5 C9,21.5670034 7.43299662,20 5.5,20 C3.56700338,20 2,21.5670034 2,23.5 C2,25.4329966 3.56700338,27 5.5,27 Z" id="path-13"></path>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7" height="7" fill="white">
             <use xlink:href="#path-13"></use>
         </mask>
-        <rect id="path-15" x="12.3333333" y="41.1111111" width="16.4444444" height="16.4444444"></rect>
-        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.4444444" height="16.4444444" fill="white">
+        <rect id="path-15" x="0" y="0" width="120" height="80" rx="5"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="80" fill="white">
             <use xlink:href="#path-15"></use>
         </mask>
-        <rect id="path-17" x="119.222222" y="41.1111111" width="16.4444444" height="16.4444444"></rect>
-        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="16.4444444" height="16.4444444" fill="white">
+        <polygon id="path-17" points="19.0588235 54.6275044 21.4117647 56.9422291 21.4117647 66.2011282 19.0588235 68.5158529"></polygon>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.35294118" height="13.8883486" fill="white">
             <use xlink:href="#path-17"></use>
         </mask>
-        <polygon id="path-19" points="16.4444444 8.22222222 131.555556 8.22222222 148 24.6666667 0 24.6666667"></polygon>
-        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="148" height="16.4444444" fill="white">
-            <use xlink:href="#path-19"></use>
-        </mask>
-        <polygon id="path-21" points="74 0 98.6666667 24.6666667 49.3333333 24.6666667"></polygon>
-        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="49.3333333" height="24.6666667" fill="white">
-            <use xlink:href="#path-21"></use>
-        </mask>
-        <rect id="path-23" x="0" y="23" width="45" height="2"></rect>
-        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="45" height="2" fill="white">
-            <use xlink:href="#path-23"></use>
-        </mask>
-        <path d="M34.5,27 C36.4329966,27 38,25.4329966 38,23.5 C38,21.5670034 36.4329966,20 34.5,20 C32.5670034,20 31,21.5670034 31,23.5 C31,25.4329966 32.5670034,27 34.5,27 Z" id="path-25"></path>
-        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7" height="7" fill="white">
-            <use xlink:href="#path-25"></use>
-        </mask>
-        <path d="M5.5,27 C7.43299662,27 9,25.4329966 9,23.5 C9,21.5670034 7.43299662,20 5.5,20 C3.56700338,20 2,21.5670034 2,23.5 C2,25.4329966 3.56700338,27 5.5,27 Z" id="path-27"></path>
-        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7" height="7" fill="white">
-            <use xlink:href="#path-27"></use>
-        </mask>
-        <rect id="path-29" x="0" y="0" width="14.7272727" height="29.4268293"></rect>
-        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14.7272727" height="29.4268293" fill="white">
-            <use xlink:href="#path-29"></use>
-        </mask>
-        <rect id="path-31" x="0" y="0" width="14.7272727" height="29.4268293"></rect>
-        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14.7272727" height="29.4268293" fill="white">
-            <use xlink:href="#path-31"></use>
-        </mask>
-        <path d="M47.8636364,22.8057927 L47.8636364,33.8408537 L33.1363636,33.8408537 L33.1363636,22.8057927 C33.1363636,18.7427954 36.4331759,15.4490854 40.5,15.4490854 C44.5668241,15.4490854 47.8636364,18.7427954 47.8636364,22.8057927 Z" id="path-33"></path>
-        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14.7272727" height="18.3917683" fill="white">
-            <use xlink:href="#path-33"></use>
-        </mask>
-        <rect id="path-35" x="2.2" y="8.88888889" width="6.875" height="6.94444444"></rect>
-        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.875" height="6.94444444" fill="white">
-            <use xlink:href="#path-35"></use>
-        </mask>
-        <rect id="path-37" x="2.2" y="8.88888889" width="6.875" height="6.94444444"></rect>
-        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6.875" height="6.94444444" fill="white">
-            <use xlink:href="#path-37"></use>
-        </mask>
-        <rect id="path-39" x="0" y="0" width="120" height="80" rx="5"></rect>
-        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="120" height="80" fill="white">
-            <use xlink:href="#path-39"></use>
-        </mask>
-        <polygon id="path-41" points="19.0588235 54.6275044 21.4117647 56.9422291 21.4117647 66.2011282 19.0588235 68.5158529"></polygon>
-        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="2.35294118" height="13.8883486" fill="white">
-            <use xlink:href="#path-41"></use>
-        </mask>
-        <radialGradient cx="50%" cy="10.5263158%" fx="50%" fy="10.5263158%" r="58.0410344%" id="radialGradient-43">
+        <radialGradient cx="50%" cy="10.5263158%" fx="50%" fy="10.5263158%" r="58.0410344%" id="radialGradient-19">
             <stop stop-color="#FFFFFF" offset="0%"></stop>
             <stop stop-color="#87CEEB" offset="100%"></stop>
         </radialGradient>
-        <path d="M20,28.702587 C23.2487338,28.702587 25.8823529,26.1117431 25.8823529,22.9157751 C25.8823529,19.7198072 23.2487338,17.1289632 20,17.1289632 C16.7512662,17.1289632 14.1176471,19.7198072 14.1176471,22.9157751 C14.1176471,26.1117431 16.7512662,28.702587 20,28.702587 Z" id="path-44"></path>
-        <mask id="mask-45" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="13.7647059" height="13.5736238">
+        <path d="M20,28.702587 C23.2487338,28.702587 25.8823529,26.1117431 25.8823529,22.9157751 C25.8823529,19.7198072 23.2487338,17.1289632 20,17.1289632 C16.7512662,17.1289632 14.1176471,19.7198072 14.1176471,22.9157751 C14.1176471,26.1117431 16.7512662,28.702587 20,28.702587 Z" id="path-20"></path>
+        <mask id="mask-21" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="13.7647059" height="13.5736238">
             <rect x="13.1176471" y="16.1289632" width="13.7647059" height="13.5736238" fill="white"></rect>
-            <use xlink:href="#path-44" fill="black"></use>
+            <use xlink:href="#path-20" fill="black"></use>
         </mask>
-        <path d="M1.25581395,0 L8.79069767,0 C9.48426457,0 10.0465116,0.558617193 10.0465116,1.24770642 C10.0465116,1.93679565 9.48426457,2.49541284 8.79069767,2.49541284 L1.25581395,2.49541284 C0.562247058,2.49541284 0,1.93679565 0,1.24770642 C0,0.558617193 0.562247058,0 1.25581395,0 Z" id="path-46"></path>
-        <mask id="mask-47" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10.0465116" height="2.49541284" fill="white">
-            <use xlink:href="#path-46"></use>
+        <path d="M1.25581417,0 L8.79069767,0 C9.48426457,0 10.0465116,0.558617193 10.0465116,1.24770642 C10.0465116,1.93679565 9.48426457,2.49541284 8.79069767,2.49541284 L1.25581395,2.49541284 C0.562247058,2.49541284 0,1.93679565 0,1.24770642 C0,0.558617193 0.562247058,0 1.25581395,0 Z" id="path-22"></path>
+        <mask id="mask-23" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10.0465116" height="2.49541284" fill="white">
+            <use xlink:href="#path-22"></use>
         </mask>
     </defs>
     <g id="Home-Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -187,28 +140,28 @@
                     <polygon id="blade" transform="translate(14.877878, 9.972602) scale(1, -1) rotate(270.000000) translate(-14.877878, -9.972602) " points="17.9081458 8.20242451 24.0522752 11.7427789 5.7034811 11.7427789"></polygon>
                 </g>
             </g>
-            <rect id="Rectangle-18" fill="#774D99" x="867" y="739" width="347" height="146"></rect>
+            <rect id="Rectangle-18" fill="#774D99" x="867" y="722" width="387" height="163"></rect>
             <polygon id="Rectangle-19" fill="#774D99" points="959.440315 695 1010 695 1010 741 908 741"></polygon>
-            <g id="red-building" transform="translate(1173.000000, 620.000000)">
-                <rect id="Rectangle-14" fill="#89B3E7" x="0" y="0" width="176" height="263.122924"></rect>
-                <rect id="Rectangle-17" fill="#F66B6E" x="0" y="246.458472" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy" fill="#F66B6E" x="0" y="220.146179" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-2" fill="#F66B6E" x="0" y="193.833887" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-3" fill="#F66B6E" x="0" y="167.521595" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-4" fill="#F66B6E" x="0" y="141.209302" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-5" fill="#F66B6E" x="0" y="114.89701" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-6" fill="#F66B6E" x="0" y="88.5847176" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-7" fill="#F66B6E" x="0" y="62.2724252" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-9" fill="#F66B6E" x="0" y="35.9601329" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-10" fill="#F66B6E" x="0" y="9.64784053" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-11" fill="#F66B6E" x="0" y="0.877076412" width="176" height="17.5415282"></rect>
-                <rect id="Rectangle-17-Copy-8" fill="#F66B6E" x="0" y="0.877076412" width="17.6" height="263.122924"></rect>
-                <rect id="Rectangle-17-Copy-12" fill="#F66B6E" x="26.4" y="0.877076412" width="17.6" height="263.122924"></rect>
-                <rect id="Rectangle-17-Copy-13" fill="#F66B6E" x="52.8" y="0.877076412" width="17.6" height="263.122924"></rect>
-                <rect id="Rectangle-17-Copy-14" fill="#F66B6E" x="79.2" y="0.877076412" width="17.6" height="263.122924"></rect>
-                <rect id="Rectangle-17-Copy-15" fill="#F66B6E" x="105.6" y="0.877076412" width="17.6" height="263.122924"></rect>
-                <rect id="Rectangle-17-Copy-16" fill="#F66B6E" x="132" y="0.877076412" width="17.6" height="263.122924"></rect>
-                <rect id="Rectangle-17-Copy-17" fill="#F66B6E" x="158.4" y="0.877076412" width="17.6" height="263.122924"></rect>
+            <g id="red-building" transform="translate(1217.000000, 602.000000)">
+                <rect id="Rectangle-14" fill="#89B3E7" x="0" y="0" width="189" height="283.056478"></rect>
+                <rect id="Rectangle-17" fill="#F66B6E" x="0" y="265.129568" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy" fill="#F66B6E" x="0" y="236.82392" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-2" fill="#F66B6E" x="0" y="208.518272" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-3" fill="#F66B6E" x="0" y="180.212625" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-4" fill="#F66B6E" x="0" y="151.906977" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-5" fill="#F66B6E" x="0" y="123.601329" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-6" fill="#F66B6E" x="0" y="95.2956811" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-7" fill="#F66B6E" x="0" y="66.9900332" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-9" fill="#F66B6E" x="0" y="38.6843854" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-10" fill="#F66B6E" x="0" y="10.3787375" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-11" fill="#F66B6E" x="0" y="0.943521595" width="189" height="18.8704319"></rect>
+                <rect id="Rectangle-17-Copy-8" fill="#F66B6E" x="0" y="0.943521595" width="18.9" height="283.056478"></rect>
+                <rect id="Rectangle-17-Copy-12" fill="#F66B6E" x="28.35" y="0.943521595" width="18.9" height="283.056478"></rect>
+                <rect id="Rectangle-17-Copy-13" fill="#F66B6E" x="56.7" y="0.943521595" width="18.9" height="283.056478"></rect>
+                <rect id="Rectangle-17-Copy-14" fill="#F66B6E" x="85.05" y="0.943521595" width="18.9" height="283.056478"></rect>
+                <rect id="Rectangle-17-Copy-15" fill="#F66B6E" x="113.4" y="0.943521595" width="18.9" height="283.056478"></rect>
+                <rect id="Rectangle-17-Copy-16" fill="#F66B6E" x="141.75" y="0.943521595" width="18.9" height="283.056478"></rect>
+                <rect id="Rectangle-17-Copy-17" fill="#F66B6E" x="170.1" y="0.943521595" width="18.9" height="283.056478"></rect>
             </g>
             <g id="clocktower" transform="translate(809.000000, 598.000000)">
                 <g id="body">
@@ -239,290 +192,48 @@
                     <rect id="Rectangle-5-Copy-4" fill="#FFFFFF" x="0.6" y="3" width="7.2" height="0.6"></rect>
                     <rect id="Rectangle-6" fill="#FFFFFF" x="4.2" y="0" width="0.6" height="22.2"></rect>
                 </g>
-                <path d="M48,252 L48,288 L24,288 L24,252 C24,245.372583 29.372583,240 36,240 C42.627417,240 48,245.372583 48,252 Z" id="doorway" fill="#000000"></path>
                 <rect id="Rectangle-7" fill="#5369A8" x="6" y="24" width="6" height="258"></rect>
                 <rect id="Rectangle-7-Copy" fill="#495F9E" x="60" y="24" width="6" height="258"></rect>
             </g>
-            <g id="orange-building" transform="translate(891.000000, 714.000000)">
-                <rect id="Rectangle-12" fill="#89B3E7" x="0" y="0" width="255" height="170"></rect>
-                <rect id="Rectangle-16" fill="#F8946C" x="0" y="153" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy" fill="#F8946C" x="0" y="127.5" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy-2" fill="#F8946C" x="0" y="102" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy-3" fill="#F8946C" x="0" y="76.5" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy-4" fill="#F8946C" x="0" y="51" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy-5" fill="#F8946C" x="0" y="25.5" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy-6" fill="#F8946C" x="0" y="0" width="255" height="17"></rect>
-                <rect id="Rectangle-16-Copy-7" fill="#F8946C" x="0" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-8" fill="#F8946C" x="25.5" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-9" fill="#F8946C" x="51" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-10" fill="#F8946C" x="76.5" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-11" fill="#F8946C" x="102" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-12" fill="#F8946C" x="127.5" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-13" fill="#F8946C" x="153" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-14" fill="#F8946C" x="178.5" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-15" fill="#F8946C" x="204" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-16" fill="#F8946C" x="229.5" y="0" width="17" height="170"></rect>
-                <rect id="Rectangle-16-Copy-17" fill="#F8946C" x="255" y="0" width="17" height="170"></rect>
+            <g id="orange-building" transform="translate(891.000000, 693.000000)">
+                <rect id="Rectangle-12" fill="#89B3E7" x="0" y="0" width="286.875" height="191"></rect>
+                <rect id="Rectangle-16" fill="#F8946C" x="0" y="171.9" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy" fill="#F8946C" x="0" y="143.25" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy-2" fill="#F8946C" x="0" y="114.6" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy-3" fill="#F8946C" x="0" y="85.95" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy-4" fill="#F8946C" x="0" y="57.3" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy-5" fill="#F8946C" x="0" y="28.65" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy-6" fill="#F8946C" x="0" y="0" width="286.875" height="19.1"></rect>
+                <rect id="Rectangle-16-Copy-7" fill="#F8946C" x="0" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-8" fill="#F8946C" x="28.6875" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-9" fill="#F8946C" x="57.375" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-10" fill="#F8946C" x="86.0625" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-11" fill="#F8946C" x="114.75" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-12" fill="#F8946C" x="143.4375" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-13" fill="#F8946C" x="172.125" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-14" fill="#F8946C" x="200.8125" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-15" fill="#F8946C" x="229.5" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-16" fill="#F8946C" x="258.1875" y="0" width="19.125" height="191"></rect>
+                <rect id="Rectangle-16-Copy-17" fill="#F8946C" x="286.875" y="0" width="19.125" height="191"></rect>
             </g>
-            <g id="bank" transform="translate(1315.000000, 637.000000)">
-                <g id="roof" transform="translate(0.000000, 149.311688)" fill="#E1DDD2">
-                    <rect id="Rectangle" x="0" y="0" width="113.75" height="17.1192444"></rect>
-                </g>
-                <g id="toproof" transform="translate(0.000000, 0.944904)" fill="#E1DDD2">
-                    <rect id="Rectangle-Copy" x="0" y="0" width="113.75" height="5.7064148"></rect>
-                </g>
-                <g id="entrance" transform="translate(0.000000, 166.430933)">
-                    <rect id="Rectangle-4" fill="#AFABA0" x="0" y="0" width="113.75" height="66.1944116"></rect>
-                    <rect id="Rectangle-5" fill="#89B3E7" x="51.1875" y="37.6623377" width="5.6875" height="28.532074"></rect>
-                    <rect id="Rectangle-5-Copy" fill="#7FA9DD" x="56.875" y="37.6623377" width="5.6875" height="28.532074"></rect>
-                </g>
-                <g id="columns" transform="translate(0.000000, 166.430933)">
-                    <g id="column" transform="translate(68.250000, 0.000000)">
-                        <rect id="Rectangle-2" fill="#EBE7DC" x="0" y="0" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-2-Copy" fill="#EBE7DC" x="0" y="61.6292798" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-3" fill="#E1DDD2" x="1.1375" y="4.56513184" width="4.55" height="57.064148"></rect>
-                        <rect id="Rectangle-3-Copy" fill="#D7D3C8" x="5.6875" y="4.56513184" width="4.55" height="57.064148"></rect>
-                    </g>
-                    <g id="column-copy-3" transform="translate(34.125000, 0.000000)">
-                        <rect id="Rectangle-2" fill="#EBE7DC" x="0" y="0" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-2-Copy" fill="#EBE7DC" x="0" y="61.6292798" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-3" fill="#E1DDD2" x="1.1375" y="4.56513184" width="4.55" height="57.064148"></rect>
-                        <rect id="Rectangle-3-Copy" fill="#D7D3C8" x="5.6875" y="4.56513184" width="4.55" height="57.064148"></rect>
-                    </g>
-                    <g id="column-copy-4" transform="translate(17.062500, 0.000000)">
-                        <rect id="Rectangle-2" fill="#EBE7DC" x="0" y="0" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-2-Copy" fill="#EBE7DC" x="0" y="61.6292798" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-3" fill="#E1DDD2" x="1.1375" y="4.56513184" width="4.55" height="57.064148"></rect>
-                        <rect id="Rectangle-3-Copy" fill="#D7D3C8" x="5.6875" y="4.56513184" width="4.55" height="57.064148"></rect>
-                    </g>
-                    <g id="column-copy-5">
-                        <rect id="Rectangle-2" fill="#EBE7DC" x="0" y="0" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-2-Copy" fill="#EBE7DC" x="0" y="61.6292798" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-3" fill="#E1DDD2" x="1.1375" y="4.56513184" width="4.55" height="57.064148"></rect>
-                        <rect id="Rectangle-3-Copy" fill="#D7D3C8" x="5.6875" y="4.56513184" width="4.55" height="57.064148"></rect>
-                    </g>
-                    <g id="column-copy" transform="translate(85.312500, 0.000000)">
-                        <rect id="Rectangle-2" fill="#EBE7DC" x="0" y="0" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-2-Copy" fill="#EBE7DC" x="0" y="61.6292798" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-3" fill="#E1DDD2" x="1.1375" y="4.56513184" width="4.55" height="57.064148"></rect>
-                        <rect id="Rectangle-3-Copy" fill="#D7D3C8" x="5.6875" y="4.56513184" width="4.55" height="57.064148"></rect>
-                    </g>
-                    <g id="column-copy-2" transform="translate(102.375000, 0.000000)">
-                        <rect id="Rectangle-2" fill="#EBE7DC" x="0" y="0" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-2-Copy" fill="#EBE7DC" x="0" y="61.6292798" width="11.375" height="4.56513184"></rect>
-                        <rect id="Rectangle-3" fill="#E1DDD2" x="1.1375" y="4.56513184" width="4.55" height="57.064148"></rect>
-                        <rect id="Rectangle-3-Copy" fill="#D7D3C8" x="5.6875" y="4.56513184" width="4.55" height="57.064148"></rect>
-                    </g>
-                </g>
-                <g id="base" transform="translate(0.000000, 232.625344)">
-                    <rect fill="#E1DDD2" x="0" y="0" width="113.75" height="17.1192444"></rect>
-                    <rect id="steps" fill="#B9B5AA" x="11.375" y="0" width="91" height="3.42384888"></rect>
-                    <rect id="steps" fill="#C3BFB4" x="11.375" y="3.42384888" width="91" height="3.42384888"></rect>
-                    <rect id="steps" fill="#CDC9BE" x="11.375" y="6.84769776" width="91" height="3.42384888"></rect>
-                    <rect id="steps" fill="#D7D3C8" x="11.375" y="10.2715466" width="91" height="3.42384888"></rect>
-                    <rect id="steps" fill="#E1DDD2" x="11.375" y="13.6953955" width="91" height="3.42384888"></rect>
-                </g>
-                <g id="skyscraper" transform="translate(0.000000, 6.651318)">
-                    <rect id="Rectangle-6" fill="#89B3E7" x="38" y="0" width="38" height="142.66037"></rect>
-                    <rect id="Rectangle-6-Copy-4" fill="#759FD3" x="0" y="0" width="38" height="142.66037"></rect>
-                    <rect id="Rectangle-6-Copy-2" fill="#759FD3" x="76" y="0" width="38" height="142.66037"></rect>
-                </g>
-                <g id="coin" transform="translate(48.000000, 131.000000)">
-                    <ellipse id="Oval-2" stroke="#F8D56C" stroke-width="2" fill="#EECB62" cx="8.53125" cy="8.5596222" rx="8.53125" ry="8.5596222"></ellipse>
-                    <rect id="Rectangle-9" fill="#F8D56C" x="6.825" y="3.99449036" width="3.4125" height="9.13026368"></rect>
-                </g>
-            </g>
-            <g id="postoffice" transform="translate(1099.000000, 810.000000)">
-                <rect id="Rectangle" fill="#5369A8" x="0" y="24.6666667" width="148" height="49.3333333"></rect>
-                <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="71.5333333" width="148" height="2.46666667"></rect>
-                <use id="Rectangle-3-Copy" stroke="#FFFFFF" mask="url(#mask-10)" stroke-width="2" fill="#000000" xlink:href="#path-9"></use>
-                <use id="Rectangle-3-Copy-2" stroke="#FFFFFF" mask="url(#mask-12)" stroke-width="2" fill="#000000" xlink:href="#path-11"></use>
-                <g id="door" transform="translate(65.777778, 49.333333)">
-                    <use id="frame" stroke="#FFFFFF" mask="url(#mask-14)" stroke-width="2" fill="#000000" xlink:href="#path-13"></use>
-                    <rect id="handle" fill="#D8D8D8" x="2.46666667" y="10.6888889" width="1.64444444" height="4.11111111"></rect>
-                </g>
-                <g id="envelope" transform="translate(62.000000, 30.000000)">
-                    <rect id="Rectangle-3" fill="#FFFFFF" x="0.603935401" y="0" width="24.1574161" height="12.6826434"></rect>
-                    <polygon id="Rectangle-2" fill="#000000" points="1.17212106 0.00981521284 12.6826434 5.70718954 12.6826432 6.07267481 0.598946261 0.00981521284"></polygon>
-                    <polygon id="Rectangle-2-Copy" fill="#000000" transform="translate(18.724492, 3.031430) scale(-1, 1) translate(-18.724492, -3.031430) " points="13.2558182 0 24.7663406 5.69737433 24.7663404 6.06285959 12.6826434 0"></polygon>
-                </g>
-                <use id="Rectangle-5" stroke="#FFFFFF" mask="url(#mask-16)" stroke-width="2" fill="#000000" xlink:href="#path-15"></use>
-                <use id="Rectangle-5-Copy" stroke="#FFFFFF" mask="url(#mask-18)" stroke-width="2" fill="#000000" xlink:href="#path-17"></use>
-                <use id="Rectangle-6" stroke="#FFFFFF" mask="url(#mask-20)" stroke-width="2" fill="#5369A8" xlink:href="#path-19"></use>
-                <use id="Triangle" stroke="#FFFFFF" mask="url(#mask-22)" stroke-width="6" fill="#5369A8" xlink:href="#path-21"></use>
-            </g>
-            <g id="hospital-v2" transform="translate(750.000000, 765.000000)">
-                <g id="tower" transform="translate(137.000000, 20.000000)">
-                    <rect fill="#E8EEEE" x="0" y="0" width="70" height="100"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="70" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="70" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="50" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="50" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="30" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="30" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="10" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="10" width="20" height="10"></rect>
-                </g>
-                <g id="tower" transform="translate(0.000000, 20.000000)">
-                    <rect fill="#E8EEEE" x="0" y="0" width="70" height="100"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="70" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="70" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="50" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="50" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="30" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="30" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="10" y="10" width="20" height="10"></rect>
-                    <rect id="window" fill="#E0FFFF" x="40" y="10" width="20" height="10"></rect>
-                </g>
-                <g id="main-tower" transform="translate(68.000000, 0.000000)">
-                    <rect fill="#F2F8F8" x="0" y="0" width="70" height="120"></rect>
-                    <path d="M40,20 L40,10 L30,10 L30,20 L20,20 L20,30 L30,30 L30,40 L40,40 L40,30 L50,30 L50,20 L40,20 Z" id="cross" fill="#F66B6E"></path>
-                    <rect id="window" fill="#E0FFFF" x="25" y="100" width="10" height="20"></rect>
-                    <rect id="window-copy" fill="#E0FFFF" x="35" y="100" width="10" height="20"></rect>
-                    <rect id="window" fill="#E0FFFF" x="25" y="80" width="20" height="10"></rect>
-                    <rect id="window-copy-2" fill="#E0FFFF" x="25" y="60" width="20" height="10"></rect>
-                </g>
-            </g>
-            <g id="grocery-store" transform="translate(994.000000, 789.000000)">
-                <g id="base" transform="translate(0.000000, 60.786068)">
-                    <rect id="Rectangle" fill="#CD853F" x="3.8369906" y="30.7777558" width="30.6959248" height="3.84721947"></rect>
-                    <rect id="Rectangle-Copy-2" fill="#CD853F" x="30.6959248" y="0" width="3.8369906" height="30.7777558"></rect>
-                    <rect id="Rectangle-Copy-3" fill="#CD853F" x="0" y="0" width="3.8369906" height="34.6249753"></rect>
-                    <rect id="Rectangle-Copy-5" fill="#CD853F" x="80.5768025" y="0" width="3.8369906" height="34.6249753"></rect>
-                    <rect id="Rectangle-Copy-4" fill="#CD853F" x="49.8808777" y="0" width="3.8369906" height="30.7777558"></rect>
-                    <rect id="Rectangle-Copy" fill="#CD853F" x="49.8808777" y="30.7777558" width="30.6959248" height="3.84721947"></rect>
-                    <rect id="Rectangle-2" fill="#E0FFFF" x="34.5329154" y="15.3888779" width="8.67000008" height="19.2360974"></rect>
-                    <rect id="Rectangle-2-Copy" fill="#E0FFFF" x="42.2068966" y="15.3888779" width="7.67398119" height="19.2360974"></rect>
-                    <rect id="Rectangle-3" fill="#CD853F" x="34.5329154" y="11.5416584" width="15.3479624" height="3.84721947"></rect>
-                    <rect id="Rectangle-4" fill="#E0FFFF" x="34.5329154" y="0" width="15.3479624" height="11.5416584"></rect>
-                    <rect id="Rectangle-5" fill="#E0FFFF" x="3.8369906" y="0" width="26.8589342" height="30.7777558"></rect>
-                    <rect id="Rectangle-5-Copy" fill="#E0FFFF" x="53.7178683" y="0" width="26.8589342" height="30.7777558"></rect>
-                </g>
-                <g id="banner" transform="translate(0.000000, 48.090243)">
-                    <g id="red-banner">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner" transform="translate(3.836991, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy" transform="translate(7.673981, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy" transform="translate(11.510972, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-2" transform="translate(15.347962, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-2" transform="translate(19.184953, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-3" transform="translate(23.021944, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-3" transform="translate(26.858934, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-4" transform="translate(30.695925, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-4" transform="translate(34.532915, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-5" transform="translate(38.369906, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-5" transform="translate(42.206897, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-6" transform="translate(46.043887, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-6" transform="translate(49.880878, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-7" transform="translate(53.717868, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-7" transform="translate(57.554859, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-8" transform="translate(61.391850, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-8" transform="translate(65.228840, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-9" transform="translate(69.065831, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-9" transform="translate(72.902821, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="red-banner-copy-10" transform="translate(76.739812, 0.000000)">
-                        <ellipse id="Oval" fill="#E26B6E" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6" fill="#F66B6E" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                    <g id="white-banner-copy-10" transform="translate(80.576803, 0.000000)">
-                        <ellipse id="Oval-2" fill="#DADADA" cx="1.9184953" cy="12.6958243" rx="1.9184953" ry="1.92360974"></ellipse>
-                        <rect id="Rectangle-6-Copy" fill="#EEEEEE" x="0" y="0" width="3.8369906" height="12.6958243"></rect>
-                    </g>
-                </g>
-                <g id="store-roof" transform="translate(0.000000, 25.006927)">
-                    <rect id="Rectangle" fill="#CD853F" x="0" y="0" width="84.4137931" height="3.84721947"></rect>
-                    <rect id="Rectangle-7" fill="#F8D56C" x="0" y="3.84721947" width="84.4137931" height="19.2360974"></rect>
-                    <path d="M46.0438871,11.5416584 L46.0438871,19.2360974 L38.369906,19.2360974 L38.369906,11.5416584 C38.369906,9.41689778 40.0877852,7.69443895 42.2068966,7.69443895 C44.3260079,7.69443895 46.0438871,9.41689778 46.0438871,11.5416584 Z" id="window" fill="#E0FFFF"></path>
-                    <path d="M76.7398119,11.5416584 L76.7398119,19.2360974 L69.0658307,19.2360974 L69.0658307,11.5416584 C69.0658307,9.41689778 70.7837099,7.69443895 72.9028213,7.69443895 C75.0219327,7.69443895 76.7398119,9.41689778 76.7398119,11.5416584 Z" id="window" fill="#E0FFFF"></path>
-                    <path d="M15.3479624,11.5416584 L15.3479624,19.2360974 L7.67398119,19.2360974 L7.67398119,11.5416584 C7.67398119,9.41689778 9.3918604,7.69443895 11.5109718,7.69443895 C13.6300832,7.69443895 15.3479624,9.41689778 15.3479624,11.5416584 Z" id="window" fill="#E0FFFF"></path>
-                </g>
-                <g id="billboard" transform="translate(23.405643, 0.000000)">
-                    <path d="M10.3598746,25.0069266 L10.3598746,17.3124876" id="Line" stroke="#555555" stroke-width="3" stroke-linecap="square"></path>
-                    <path d="M26.8589342,25.0069266 L26.8589342,17.3124876" id="Line-Copy" stroke="#555555" stroke-width="3" stroke-linecap="square"></path>
-                    <rect id="Rectangle-9" fill="#F8F8F8" x="0" y="0" width="37.6025078" height="17.3124876"></rect>
-                    <g id="tomato" transform="translate(14.964263, 5.001385)">
-                        <ellipse id="Oval-4" fill="#F66B6E" cx="3.8369906" cy="4.03958045" rx="3.8369906" ry="3.27013655"></ellipse>
-                        <polygon id="Star" fill="#4CB07A" points="3.8369906 1.82034268 3.12557341 2.19535389 3.26144201 1.40106739 2.68589342 0.838550569 3.48128201 0.72266573 3.8369906 0 4.19269919 0.72266573 4.98808777 0.838550569 4.41253918 1.40106739 4.54840778 2.19535389"></polygon>
-                    </g>
-                </g>
-            </g>
-            <g id="ambulance" transform="translate(659.000000, 857.000000)">
+            <g id="ambulance" transform="translate(755.000000, 856.000000)">
                 <rect id="Rectangle" fill="#EEEEEE" x="0" y="3" width="30" height="20"></rect>
                 <g id="cross" transform="translate(2.000000, 5.000000)" fill="#F66B6E">
                     <rect id="Rectangle-2" x="0" y="3" width="9" height="3"></rect>
                     <rect id="Rectangle-2-Copy" x="3" y="0" width="3" height="9"></rect>
                 </g>
-                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-24)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-23"></use>
+                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-9"></use>
                 <g id="ambulance-front" transform="translate(30.000000, 3.000000)">
                     <rect id="Rectangle-4" fill="#EEEEEE" x="0" y="10" width="15" height="10"></rect>
                     <rect id="Rectangle-5" fill="#EEEEEE" x="0" y="0" width="10" height="10"></rect>
                     <rect id="Rectangle-5-Copy" fill="#E0FFFF" x="2" y="2" width="6" height="6"></rect>
                 </g>
-                <use id="Oval" stroke="#000000" mask="url(#mask-26)" stroke-width="2" fill="#EEEEEE" xlink:href="#path-25"></use>
-                <use id="Oval-Copy" stroke="#000000" mask="url(#mask-28)" stroke-width="2" fill="#EEEEEE" xlink:href="#path-27"></use>
+                <use id="Oval" stroke="#000000" mask="url(#mask-12)" stroke-width="2" fill="#EEEEEE" xlink:href="#path-11"></use>
+                <use id="Oval-Copy" stroke="#000000" mask="url(#mask-14)" stroke-width="2" fill="#EEEEEE" xlink:href="#path-13"></use>
                 <rect id="Rectangle-6" fill="#F66B6E" x="20" y="0" width="3" height="3"></rect>
                 <rect id="Rectangle-7" fill="#F66B6E" x="0" y="17" width="45" height="1"></rect>
             </g>
-            <g id="heart-container" transform="translate(611.000000, 841.000000)">
+            <g id="heart-container" transform="translate(666.000000, 841.000000)">
                 <path d="M9.0553847,28.6666667 C11.0538908,28.6666665 14.8707694,23.0441717 14.8707694,21.1754479 C14.8707694,19.3067242 14.8707694,17.9166668 12.3784617,17.9166667 C9.88615394,17.9166666 9.0553847,21.1754476 9.0553847,21.1754476 C9.0553847,21.1754476 8.22461545,17.9166667 5.73230773,17.9166667 C3.24,17.9166667 3.24,19.3068157 3.24,21.1754478 C3.24,23.04408 6.98842481,28.6666668 9.0553847,28.6666667 Z" id="heart" fill="#F66B6E"></path>
                 <g id="container">
                     <rect id="Rectangle-2" fill="#555555" x="0" y="39.4166667" width="18" height="3.58333333"></rect>
@@ -531,43 +242,20 @@
                     <rect id="Rectangle-Copy" fill-opacity="0.5" fill="#D6F5F5" x="9" y="3.58333333" width="9" height="35.8333333"></rect>
                 </g>
             </g>
-            <g id="barn" transform="translate(332.000000, 687.000000)">
-                <rect id="Rectangle" fill="#F8D56C" x="7.36363636" y="71.7278963" width="18.4090909" height="3.67835366"></rect>
-                <rect id="Rectangle-Copy" fill="#F8D56C" x="55.2272727" y="71.7278963" width="18.4090909" height="3.67835366"></rect>
-                <g id="left-barn-door" transform="translate(25.772727, 45.979421)">
-                    <use id="Rectangle-2" stroke="#FFFFFF" mask="url(#mask-30)" stroke-width="6" fill="#F66B6E" xlink:href="#path-29"></use>
-                    <polygon id="Rectangle-3" fill="#FFFFFF" points="13.6913597 0 14.7272727 0 1.10454545 29.4268293 0 29.4268293"></polygon>
-                    <polygon id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(7.363636, 14.713415) scale(-1, 1) translate(-7.363636, -14.713415) " points="13.6913597 0 14.7272727 0 1.10454545 29.4268293 -1.95399252e-14 29.4268293"></polygon>
-                </g>
-                <g id="right-barn-door" transform="translate(40.500000, 45.979421)">
-                    <use id="Rectangle-2" stroke="#FFFFFF" mask="url(#mask-32)" stroke-width="6" fill="#F66B6E" xlink:href="#path-31"></use>
-                    <polygon id="Rectangle-3" fill="#FFFFFF" points="13.6913597 0 14.7272727 0 1.10454545 29.4268293 0 29.4268293"></polygon>
-                    <polygon id="Rectangle-3-Copy" fill="#FFFFFF" transform="translate(7.363636, 14.713415) scale(-1, 1) translate(-7.363636, -14.713415) " points="13.6913597 0 14.7272727 0 1.10454545 29.4268293 -1.95399252e-14 29.4268293"></polygon>
-                </g>
-                <path d="M7.36363636,38.6227134 L25.7727273,38.6227134 L25.7727273,71.7278963 L7.36363636,71.7278963 L7.36363636,38.6227134 Z M55.2272727,38.6227134 L73.6363636,38.6227134 L73.6363636,71.7278963 L55.2272727,71.7278963 L55.2272727,38.6227134 Z M25.7727273,38.6227134 L55.2272727,38.6227134 L55.2272727,45.9794207 L25.7727273,45.9794207 L25.7727273,38.6227134 Z" id="Combined-Shape" fill="#F66B6E"></path>
-                <rect id="Rectangle-6" fill="#FFFFFF" x="5.52272727" y="22.070122" width="1.84090909" height="53.336128"></rect>
-                <rect id="Rectangle-6-Copy-2" fill="#FFFFFF" x="73.6363636" y="22.070122" width="1.84090909" height="53.336128"></rect>
-                <rect id="Rectangle-7" fill="#FFFFFF" x="7.36363636" y="36.7835366" width="66.2727273" height="1.83917683"></rect>
-                <path d="M7.36363636,22.070122 L73.6363636,22.070122 L73.6363636,36.7835366 L7.36363636,36.7835366 L7.36363636,22.070122 Z M40.5,3.67835366 L73.6363636,22.070122 L7.36363636,22.070122 L40.5,3.67835366 Z" id="roof" fill="#F66B6E"></path>
-                <use id="window" stroke="#FFFFFF" mask="url(#mask-34)" stroke-width="4" fill="#000000" xlink:href="#path-33"></use>
-                <polygon id="Rectangle-10" fill="#FFFFFF" points="40.5 0 40.5 3.67835366 7.36363636 22.070122 0 22.0701216"></polygon>
-                <polygon id="Rectangle-10-Copy" fill="#FFFFFF" transform="translate(60.750000, 11.035061) scale(-1, 1) translate(-60.750000, -11.035061) " points="81 0 81 3.67835366 47.8636364 22.070122 40.5 22.0701216"></polygon>
-            </g>
-            <g id="postbox" transform="translate(1257.000000, 864.000000)">
-                <path d="M11,5.55555556 C11,2.48730695 8.53756612,0 5.5,0 C2.46243388,0 0,2.48730695 0,5.55555556 L0,16.6666667 L11,16.6666667 L11,5.55555556 Z M0,16.6666667 L0.55,16.6666667 L0.55,20 L0,20 L0,16.6666667 Z M10.45,16.6666667 L11,16.6666667 L11,20 L10.45,20 L10.45,16.6666667 Z" id="Combined-Shape" fill="#5369A8"></path>
-                <path d="M9.625,5.55555556 C9.625,3.2543691 7.77916078,1.38888889 5.50220272,1.38888889 C3.22524465,1.38888889 1.26967956,4.06611017 1.37940543,5.55555556 C1.37940543,5.55555556 9.625,5.55555556 9.625,5.55555556 Z" id="Oval-2" fill="#5369C6"></path>
-                <rect id="Rectangle-3" fill="#D8D8D8" x="4.4" y="3.61111111" width="2.2" height="0.555555556"></rect>
-                <ellipse id="Oval-3" fill="#D8D8D8" cx="5.6375" cy="10.1388889" rx="0.4125" ry="0.416666667"></ellipse>
-                <use id="Rectangle-4" stroke="#000000" mask="url(#mask-36)" xlink:href="#path-35"></use>
-            </g>
-            <g id="postbox" transform="translate(1278.000000, 864.000000)">
-                <path d="M11,5.55555556 C11,2.48730695 8.53756612,0 5.5,0 C2.46243388,0 0,2.48730695 0,5.55555556 L0,16.6666667 L11,16.6666667 L11,5.55555556 Z M0,16.6666667 L0.55,16.6666667 L0.55,20 L0,20 L0,16.6666667 Z M10.45,16.6666667 L11,16.6666667 L11,20 L10.45,20 L10.45,16.6666667 Z" id="Combined-Shape" fill="#5369A8"></path>
-                <path d="M9.625,5.55555556 C9.625,3.2543691 7.77916078,1.38888889 5.50220272,1.38888889 C3.22524465,1.38888889 1.26967956,4.06611017 1.37940543,5.55555556 C1.37940543,5.55555556 9.625,5.55555556 9.625,5.55555556 Z" id="Oval-2" fill="#5369C6"></path>
-                <rect id="Rectangle-3" fill="#D8D8D8" x="4.4" y="3.61111111" width="2.2" height="0.555555556"></rect>
-                <ellipse id="Oval-3" fill="#D8D8D8" cx="5.6375" cy="10.1388889" rx="0.4125" ry="0.416666667"></ellipse>
-                <use id="Rectangle-4" stroke="#000000" mask="url(#mask-38)" xlink:href="#path-37"></use>
-            </g>
             <rect id="level-1" fill="#CCCCCC" x="0" y="884" width="1440" height="140"></rect>
+            <g id="fish-thing" transform="translate(1177.000000, 961.000000)">
+                <path d="M0.695516272,28.6993458 C3.17580816,28.6993458 6.19711326,27.0436986 6.19711326,24.5696075 C6.19711326,22.0955163 10.3755721,17.5 7.89528017,17.5 C5.41498828,17.5 3.16587534,19.6455163 3.16587534,22.1196075 C3.16587534,24.5936986 -1.78477562,28.6993458 0.695516272,28.6993458 Z" id="Oval-10-Copy" fill="#F66B6E" transform="translate(4.340905, 23.099673) scale(-1, -1) translate(-4.340905, -23.099673) "></path>
+                <path d="M31.9235864,28.6993458 C34.4038783,28.6993458 37.4251834,27.0436986 37.4251834,24.5696075 C37.4251834,22.0955163 41.6036422,17.5 39.1233503,17.5 C36.6430585,17.5 34.3939455,19.6455163 34.3939455,22.1196075 C34.3939455,24.5936986 29.4432946,28.6993458 31.9235864,28.6993458 Z" id="Oval-10-Copy-2" fill="#F66B6E" transform="translate(35.568975, 23.099673) scale(1, -1) translate(-35.568975, -23.099673) "></path>
+                <g id="octorok-body" transform="translate(2.456140, 0.000000)">
+                    <g id="octorok-face">
+                        <ellipse id="Oval-7-Copy-2" fill="#F66B6E" cx="17.5438596" cy="17.5" rx="17.5438596" ry="17.5"></ellipse>
+                        <path d="M21.0526316,34.6499366 C19.9189125,34.8794941 18.7454942,35 17.5438596,35 C7.85465351,35 0,27.1649831 0,17.5 C0,7.83501688 7.85465351,0 17.5438596,0 C18.7454942,0 19.9189125,0.120505908 21.0526316,0.350063404 C13.0447708,1.97150957 7.01754386,9.03364731 7.01754386,17.5 C7.01754386,25.9663527 13.0447708,33.0284904 21.0526316,34.6499366 Z" id="Combined-Shape" fill="#E26B6E"></path>
+                    </g>
+                    <path d="M11.2280702,17.5 C13.3333333,17.5 14.4736842,16.45 17.5438596,16.45 C20.6140351,16.45 21.754386,17.5 23.8596491,17.5 C26.9590643,17.5 29.8245614,15.4 29.8245614,12.25 C29.8245614,9.1 26.9590643,7 23.8596491,7 C21.754386,7 20.6140351,8.05 17.5438596,8.05 C14.4736842,8.05 12.3840346,7 11.2280702,7 C8.01228662,7 5.26315789,9.35050506 5.26315789,12.25 C5.26315789,15.1494949 8.01228662,17.5 11.2280702,17.5 Z" id="eye-plate" fill="#FFFFFF"></path>
+                    <path d="M14.1133159,13.3837478 C14.1593425,13.2706593 14.1835041,13.1536108 14.1835041,13.0337478 C14.1835041,12.0672494 12.6125734,11.2837478 10.6747322,11.2837478 C8.73689093,11.2837478 7.16596022,12.0672494 7.16596022,13.0337478 C7.16596022,13.1536108 7.19012181,13.2706593 7.23614838,13.3837478 C7.56125036,12.5849636 8.97721783,11.9837478 10.6747322,11.9837478 C12.3722465,11.9837478 13.7882139,12.5849636 14.1133159,13.3837478 Z" id="Combined-Shape" fill="#000000" transform="translate(10.674732, 12.333748) rotate(20.000000) translate(-10.674732, -12.333748) "></path>
+                    <path d="M27.7975265,13.3837478 C27.843553,13.2706593 27.8677146,13.1536108 27.8677146,13.0337478 C27.8677146,12.0672494 26.2967839,11.2837478 24.3589427,11.2837478 C22.4211015,11.2837478 20.8501708,12.0672494 20.8501708,13.0337478 C20.8501708,13.1536108 20.8743323,13.2706593 20.9203589,13.3837478 C21.2454609,12.5849636 22.6614284,11.9837478 24.3589427,11.9837478 C26.056457,11.9837478 27.4724245,12.5849636 27.7975265,13.3837478 Z" id="Combined-Shape-Copy" fill="#000000" transform="translate(24.358943, 12.333748) scale(-1, 1) rotate(20.000000) translate(-24.358943, -12.333748) "></path>
+                </g>
+            </g>
             <rect id="ocean" fill="#5369A8" x="100" y="984" width="1340" height="40"></rect>
             <rect id="docks" fill="#D8D8D8" x="0" y="967" width="100" height="57"></rect>
             <g id="pier" transform="translate(100.000000, 967.000000)" fill="#CD853F">
@@ -694,8 +382,8 @@
                 <rect id="indent" fill="#D8D8D8" x="54.4736842" y="3.61538462" width="3.63157895" height="39.7692308"></rect>
                 <rect id="indent" fill="#D8D8D8" x="47.2105263" y="3.61538462" width="3.63157895" height="39.7692308"></rect>
             </g>
-            <g id="terminal" transform="translate(1027.000000, 634.000000)">
-                <use stroke="#FFFFFF" mask="url(#mask-40)" stroke-width="4" fill="#000000" xlink:href="#path-39"></use>
+            <g id="terminal" transform="translate(1044.000000, 615.000000)">
+                <use stroke="#FFFFFF" mask="url(#mask-16)" stroke-width="4" fill="#000000" xlink:href="#path-15"></use>
                 <text id="&gt;-Hello-world" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#FFFFFF">
                     <tspan x="5.438" y="17">&gt; Hello world </tspan>
                 </text>
@@ -711,7 +399,7 @@
                     <rect id="Rectangle-21-Copy-5" fill="#FFFFFF" transform="translate(8.242641, 30.242641) scale(-1, -1) rotate(45.000000) translate(-8.242641, -30.242641) " x="7.24264069" y="26.2426407" width="2" height="8"></rect>
                 </g>
             </g>
-            <g id="pipe" transform="translate(122.000000, 359.000000)">
+            <g id="pipe" transform="translate(156.000000, 359.000000)">
                 <rect id="Rectangle-2" fill="#4CB07A" x="2.66666667" y="4.84615385" width="10.6666667" height="16.1538462"></rect>
                 <rect id="Rectangle" fill="#4CBA7A" x="0" y="0" width="16" height="5.38461538"></rect>
             </g>
@@ -722,8 +410,8 @@
                     <path d="M-3.19744231e-14,2.78309485 C-3.19744231e-14,2.78309485 10.3529412,1.32338585e-13 23.5294118,1.32338585e-13 C36.7058824,1.32338585e-13 47.0588235,2.78309485 47.0588235,2.78309485 L47.0588235,14.3567187 L-3.19744231e-14,14.3567187 L-3.19744231e-14,2.78309485 Z" id="Rectangle" fill="#F2F2F2"></path>
                     <path d="M1.0658141e-14,17.1343884 C1.0658141e-14,17.1343884 10.3529412,14.3512935 23.5294118,14.3512935 C36.7058824,14.3512935 47.0588235,17.1343884 47.0588235,17.1343884 L47.0588235,28.7080122 L1.0658141e-14,28.7080122 L1.0658141e-14,17.1343884 Z" id="Rectangle-Copy" fill="#CECECE" transform="translate(23.529412, 21.529653) scale(1, -1) translate(-23.529412, -21.529653) "></path>
                 </g>
-                <use id="thruster" stroke="#979797" mask="url(#mask-42)" stroke-width="2" fill="#979797" transform="translate(20.235294, 61.571679) rotate(-90.000000) translate(-20.235294, -61.571679) " xlink:href="#path-41"></use>
-                <polygon id="stream" fill="url(#radialGradient-43)" points="13.3422362 62.691256 27.0505072 62.691256 27.0505072 94.799643 13.3422362 95.2701325"></polygon>
+                <use id="thruster" stroke="#979797" mask="url(#mask-18)" stroke-width="2" fill="#979797" transform="translate(20.235294, 61.571679) rotate(-90.000000) translate(-20.235294, -61.571679) " xlink:href="#path-17"></use>
+                <polygon id="stream" fill="url(#radialGradient-19)" points="13.3422362 62.691256 27.0505072 62.691256 27.0505072 94.799643 13.3422362 95.2701325"></polygon>
                 <g id="cone" transform="translate(8.235294, 0.000000)">
                     <polygon id="Triangle" fill="#F66B6E" points="11.7647059 0 11.7647059 14.119821 0 14.119821"></polygon>
                     <polygon id="Triangle-Copy" fill="#E26B6E" transform="translate(17.647059, 7.059911) scale(-1, 1) translate(-17.647059, -7.059911) " points="23.5294118 0 23.5294118 14.119821 11.7647059 14.119821"></polygon>
@@ -733,8 +421,8 @@
                     <path d="M1.17647059,23.1472476 L1.17647059,2.31472476 L2.35294118,2.31472476 L1.17647059,23.1472476 Z M1.17647059,2.31472476 C1.17647059,2.31472476 1.17647059,1.15736238 1.17647059,0 C1.82621735,0 2.35294118,1.03633758 2.35294118,2.31472476 C2.09911288,2.31472476 1.17647059,2.31472476 1.17647059,2.31472476 Z" id="Combined-Shape" fill="#E26B6E"></path>
                 </g>
                 <g id="window">
-                    <use fill="#89B3D3" fill-rule="evenodd" xlink:href="#path-44"></use>
-                    <use stroke="#979797" mask="url(#mask-45)" stroke-width="2" xlink:href="#path-44"></use>
+                    <use fill="#89B3D3" fill-rule="evenodd" xlink:href="#path-20"></use>
+                    <use stroke="#979797" mask="url(#mask-21)" stroke-width="2" xlink:href="#path-20"></use>
                 </g>
             </g>
             <g id="drone" transform="translate(1053.000000, 428.000000)">
@@ -768,7 +456,7 @@
                 <g id="face" transform="translate(8.476744, 4.990826)">
                     <rect id="Rectangle-2" fill="#333333" x="0" y="0" width="10.0465116" height="8.73394495"></rect>
                     <g id="eyePlate" transform="translate(0.000000, 3.119266)">
-                        <use id="Combined-Shape" stroke="#F8946C" mask="url(#mask-47)" stroke-width="10" fill="#F8D56C" xlink:href="#path-46"></use>
+                        <use id="Combined-Shape" stroke="#F8946C" mask="url(#mask-23)" stroke-width="10" fill="#F8D56C" xlink:href="#path-22"></use>
                         <ellipse id="leftEye" fill="#FFFFFF" cx="1.88372093" cy="1.24770642" rx="0.627906977" ry="0.623853211"></ellipse>
                         <ellipse id="rightEye" fill="#FFFFFF" cx="8.1627907" cy="1.24770642" rx="0.627906977" ry="0.623853211"></ellipse>
                     </g>
