@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="165px" height="165px" viewBox="0 0 165 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
     <title>logo</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-203.000000, -147.000000)">
-            <g id="logo" transform="translate(203.000000, 147.000000)">
-                <circle id="Oval" fill="#FF3C38" cx="83" cy="160" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(44.250000, 149.616969) rotate(30.000000) translate(-44.250000, -149.616969) " cx="44.25" cy="149.616969" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(15.883031, 121.250000) rotate(60.000000) translate(-15.883031, -121.250000) " cx="15.8830312" cy="121.25" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(5.500000, 82.500000) rotate(90.000000) translate(-5.500000, -82.500000) " cx="5.5" cy="82.5" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(15.883031, 43.750000) rotate(120.000000) translate(-15.883031, -43.750000) " cx="15.8830312" cy="43.75" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(44.250000, 15.383031) rotate(150.000000) translate(-44.250000, -15.383031) " cx="44.25" cy="15.3830312" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(83.000000, 5.000000) rotate(180.000000) translate(-83.000000, -5.000000) " cx="83" cy="5" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(121.750000, 149.616969) rotate(-30.000000) translate(-121.750000, -149.616969) " cx="121.75" cy="149.616969" r="5"></circle>
-                <circle id="Oval" fill="#FF3C38" transform="translate(150.116969, 121.250000) rotate(-60.000000) translate(-150.116969, -121.250000) " cx="150.116969" cy="121.25" r="5"></circle>
-                <path d="M108.109927,65.3480762 C108.109927,65.3480762 109.609927,62.3480762 111.109927,62.3480762 C112.609927,62.3480762 114.109927,65.3480762 114.109927,65.3480762 L113.109927,132.348076 C113.109927,132.348076 112.109927,135.348076 111.109927,135.348076 C110.109927,135.348076 109.109927,132.348076 109.109927,132.348076 L108.109927,65.3480762 Z" id="Rectangle" fill="#383F51" transform="translate(111.109927, 98.848076) rotate(-60.000000) translate(-111.109927, -98.848076) "></path>
+        <g id="Artboard" transform="translate(-106.000000, -72.000000)">
+            <g id="logo" transform="translate(106.000000, 72.000000)">
+                <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="180" height="180"></rect>
+                <ellipse id="Oval" fill="#FF3C38" cx="93.1528662" cy="142.657321" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(66.003185, 135.541225) rotate(30.000000) translate(-66.003185, -135.541225) " cx="66.0031847" cy="135.541225" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(46.128238, 116.099688) rotate(60.000000) translate(-46.128238, -116.099688) " cx="46.1282384" cy="116.099688" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(38.853503, 89.542056) rotate(90.000000) translate(-38.853503, -89.542056) " cx="38.8535032" cy="89.5420561" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(46.128238, 62.984424) rotate(120.000000) translate(-46.128238, -62.984424) " cx="46.1282384" cy="62.9844237" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(66.003185, 43.542887) rotate(150.000000) translate(-66.003185, -43.542887) " cx="66.0031847" cy="43.5428874" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(93.152866, 36.426791) rotate(180.000000) translate(-93.152866, -36.426791) " cx="93.1528662" cy="36.4267913" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(120.302548, 135.541225) rotate(-30.000000) translate(-120.302548, -135.541225) " cx="120.302548" cy="135.541225" rx="3.50318471" ry="3.42679128"></ellipse>
+                <ellipse id="Oval" fill="#FF3C38" transform="translate(140.177494, 116.099688) rotate(-60.000000) translate(-140.177494, -116.099688) " cx="140.177494" cy="116.099688" rx="3.50318471" ry="3.42679128"></ellipse>
+                <path d="M110.745809,77.7868435 C110.745809,77.7868435 111.796764,75.7307687 112.84772,75.7307687 C113.898675,75.7307687 114.949631,77.7868435 114.949631,77.7868435 L114.248994,123.705847 C114.248994,123.705847 113.548357,125.761921 112.84772,125.761921 C112.147083,125.761921 111.446446,123.705847 111.446446,123.705847 L110.745809,77.7868435 Z" id="Rectangle" fill="#383F51" transform="translate(112.847720, 100.746345) rotate(-60.000000) translate(-112.847720, -100.746345) "></path>
             </g>
         </g>
     </g>
