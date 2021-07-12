@@ -8,7 +8,7 @@ $(window).on("orientationchange", setSkillContainerHeights);
 
 
 function emailMe(){
-	window.location.href = "mailto:kavin.a.subramanyam@gmail.com?subject=What\'s up\?";
+	window.location.href = "mailto:kavin.a.subramanyam@gmail.com?subject=Hi";
 }
 
 // ffs css
